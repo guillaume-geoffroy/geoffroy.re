@@ -5,10 +5,16 @@ layout: default
 <html>
 <head>
 
+  {% include meta.html %}
+  {% include libraries.html %}
+  {% include style.html %}
+
 </head>
 <body>
 	
   {{ content }}
+
+  {% include footer.html %}
 	
 </body>
 </html>

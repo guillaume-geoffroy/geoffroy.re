@@ -1,0 +1,9 @@
+markdown: redcarpet
+# Site settings
+title: Guillaume Geoffroy
+description: > # this means to ignore newlines until "baseurl:"
+  Page personnelle de Guillaume Geoffroy. Mathématiques, informatique théorique, logique, théorie de la démonstration et comédies musicales mathématiques !
+baseurl: ""
+
+#gems:
+#  - jekyll-redirect-from
