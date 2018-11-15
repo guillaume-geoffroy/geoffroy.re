@@ -1,23 +1,22 @@
 ---
 permalink: /
-layout: default
+title: 'Reditection...'
+language: fr
 ---
-<header>
-	
-	<div class="top-banner" > <div class="wrapper-top">
-	<a class="site-title" href="/">Guillaume Geoffroy</a>
-	</div></div>
-	
-</header>
-<div class="content">
+<html>
+  <head>
+	  
+  {% include meta.html %}
+  {% include libraries.html %}
 
-<p>
-Je suis doctorant à <a href = "https://www.i2m.univ-amu.fr/">l'institut de mathématiques de Marseille</a> sous la direction de <a href="https://www.i2m.univ-amu.fr/perso/laurent.regnier/">Laurent Regnier</a>. Ma recherche porte sur la réalisabilité classique, la sémantique dénotationnelle des programmes et d'autres domaines à l'interface entre les mathématiques, l'informatique théorique et la logique.
-</p>
-
-<p> Je suis également cofondateur et vice-président de <a href="https://www.piday.fr">l'association Pi Day</a>, consacrée à la diffusion et la promotion des mathématiques. Nous produisons notamment des <a href="http://www.piday.fr/extraits-video-2017/">comédies musicales mathématiques</a>&nbsp;!
-</p>
-
-<p>Ce site est <a href="https://www.lego.com/">en construction.</a></p>
-
-</div>
+  <noscript><meta http-equiv="refresh" content="0; /fr/"></noscript>
+	  
+  </head>
+  <body>
+  <script>
+    var language = getCookie("language");
+    if (language == "en") { window.location.replace("/en/"); }
+    else { window.location.replace("/fr/"); }
+  </script>
+  </body>
+</html>

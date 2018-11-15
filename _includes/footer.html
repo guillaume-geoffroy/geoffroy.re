@@ -1,3 +1,14 @@
-<div id="footer">
-
+<div class="footer">
+<div class="content container">
+  <div class="row">
+    <div class="col-xs-3">
+		<a href="{{ page.page | prepend: '/fr' }}" onclick="setCookie('language','fr',30);"><span class="img-thumbnail flag flag-icon-background flag-icon-fr" aria-hidden="true"></span><span class="sr-only">FR</span></a>
+		<a href="{{ page.page | prepend: '/en' }}" onclick="setCookie('language','en',30);"><span class="img-thumbnail flag flag-icon-background flag-icon-gb" aria-hidden="true"></span><span class="sr-only">EN</span></a>
+	</div>
+    <div class="col-xs-9"><span class="pull-right"><i class="fa fa-envelope" aria-hidden="true"></i>
+		{% if page.language == "en" %}first-name.last-name@univ-amu.fr
+		{% else %}prénom.nom@univ-amu.fr
+		{% endif %}</span></div>
+  </div>
+</div>
 </div>

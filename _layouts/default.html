@@ -11,8 +11,41 @@ layout: default
 
 </head>
 <body>
-	
-  {{ content }}
+
+  {% include header.html %}
+  
+<div class="body">
+<div class="content">
+{% assign content = content | split: '<pre' %}
+
+{% for parts in content %}
+
+  {% assign part = parts | split: '</pre>' %}
+  {% assign c = part.first %}
+  {% assign t = part.last %}
+
+  {% if page.language == "fr" %}
+  {% assign t = t | replace: '“', '«&#160;'
+                  | replace: '”', '&#160;»'
+                  | replace: ' :', '&#160;:'
+                  | replace: ' %', '&#160;%'
+                  | replace: ' ;', '<span style="white-space:nowrap">&thinsp;</span>;'
+                  | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
+                  | replace: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
+  {% endif %}
+
+  {% if part.size == 2 %}
+
+    {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+
+  {% endif %}
+
+  {% capture output %}{{ output }}{{ t }}{% endcapture %}
+
+{% endfor %}
+{{ output }}
+</div>
+</div>
 
   {% include footer.html %}
 	

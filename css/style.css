@@ -1,10 +1,10 @@
 body {
-    background-color: #fff;
-    font-family: 'Helvetica Neue', Helvetica, 'Open Sans';
-	font-weight: 200;
-    padding: 0;
+  background-color:#f9f9f9;
+  font-family: 'Helvetica Neue', Helvetica, 'Open Sans';
+  font-weight: 200;
+  padding: 0;
 }
-body strong { font-weight: 200; }
+body strong { font-weight: 300; }
 
 header {
     background: url("/images/Mafate 1 - Caroline et Louis VOLANT - CC BY-NC-SA 2.0.jpg") no-repeat;
@@ -12,6 +12,7 @@ header {
     background-position: center bottom;
     background-size: cover;
     height: 25em;
+	max-height: 40vh;
 }
 
 .top-banner {
@@ -21,38 +22,96 @@ header {
 	border-bottom: 1pt solid rgba(255, 255, 255, 0.8);
     width: 100%
 }
-div.wrapper-top {
+.navbar {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 30px;
-    padding-left: 30px;
+	margin-top: 0;
+	margin-bottom: 0;
 	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-bottom: 3px;
+	min-height: 42px;
+	background-color: transparent;
+	border: none;
 }
-.site-title {
-	color: #666666;
+.top-banner a, .top-banner a:visited, .top-banner nav a, .top-banner nav a:visited  {
+	color: #777777;
 	font-size: 21px;
+    text-decoration: none;
+	padding: 0;
+	font-weight: 300;
 }
-
-
-a {
+.top-banner a.site-title:hover {
+	color: #666666;
+}
+.navbar-brand {
+  height: auto;
+  margin-top: 6px;
+}
+.nav li {
+  margin-top: 6px;
+}
+.navbar-toggle {
+    margin: 3px 0 0 0;
+	padding: 3px 5px 1px 5px;
+}
+.top-banner .glyphicon-menu-hamburger {
+  color:#AAAAAA;
+}
+a, a:visited {
     color: #AAAAAA;
     text-decoration: none;
     background-color: transparent;
 	font-weight: 300;
 }
-a:hover {
+a:hover, a:active {
     color: #666666;
     text-decoration: none;
     background-color: transparent;
 	font-weight: 300;
 }
 
-div.content {
+.flag {
+  height: 16px;
+  width: 24px;
+  border: none;
+  border-radius: 0;
+  margin-top: 3px;
+}
+
+.body {
+  background-color:#ffffff;
+  padding: 4em 2em;
+}
+
+.footer{
+  border-top:1px solid #e8e8e8;
+  background-color:#f9f9f9;
+  padding: 1em 2em;
+}
+
+.content {
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 4em;
-	margin-bottom: 4em;
+}
+
+.content .col-xs-1, .content .col-sm-1, .content .col-md-1, .content .col-lg-1, .content .col-xs-2, .content .col-sm-2, .content .col-md-2, .content .col-lg-2, .content .col-xs-3, .content .col-sm-3, .content .col-md-3, .content .col-lg-3, .content .col-xs-4, .content .col-sm-4, .content .col-md-4, .content .col-lg-4, .content .col-xs-5, .content .col-sm-5, .content .col-md-5, .content .col-lg-5, .content .col-xs-6, .content .col-sm-6, .content .col-md-6, .content .col-lg-6, .content .col-xs-7, .content .col-sm-7, .content .col-md-7, .content .col-lg-7, .content .col-xs-8, .content .col-sm-8, .content .col-md-8, .content .col-lg-8, .content .col-xs-9, .content .col-sm-9, .content .col-md-9, .content .col-lg-9, .content .col-xs-10, .content .col-sm-10, .content .col-md-10, .content .col-lg-10, .content .col-xs-11, .content .col-sm-11, .content .col-md-11, .content .col-lg-11, .content .col-xs-12, .content .col-sm-12, .content .col-md-12, .content .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media (max-width: 978px) {
+  .body {
+    padding: 2em 2em;
+  }
+  .footer{
+    padding: 1em 1em;
+  }
+  a, a:visited {
+    font-weight: 400; 
+    color: #CCCCCC;
+  }
 }

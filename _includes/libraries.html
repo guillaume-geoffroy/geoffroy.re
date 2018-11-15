@@ -4,3 +4,29 @@
 
 <script src="{{ '/lib/jquery-3.1.1.min.js' | prepend: site.baseurl }}"></script>
 <script src="{{ '/lib/bootstrap-3.3.7/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
+<link href="{{ '/lib/flag-icon-css/assets/docs.css' | prepend: site.baseurl }}" rel="stylesheet">
+<link href="{{ '/lib/flag-icon-css/css/flag-icon.css' | prepend: site.baseurl }}" rel="stylesheet">
+
+<script>
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+</script>
