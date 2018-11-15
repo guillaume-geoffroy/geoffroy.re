@@ -52,6 +52,10 @@ header {
   margin-top: 6px;
   margin-bottom: 5px;
 }
+.navbar-brand img {
+  float:left;
+  margin-right: 3px;
+}
 .nav li {
   margin-top: 6px;
   margin-right: 2em;
