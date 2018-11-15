@@ -34,15 +34,15 @@ header {
 	background-color: transparent;
 	border: none;
 }
-.top-banner a, .top-banner a:visited, .top-banner nav a, .top-banner nav a:visited  {
-	color: #777777;
+.top-banner a.navbar-brand, .top-banner a:visited, .top-banner nav a, .top-banner nav a:visited  {
+	color: #666666;
 	font-size: 21px;
     text-decoration: none;
 	padding: 0;
 	font-weight: 300;
 }
-.top-banner a.site-title:hover {
-	color: #666666;
+.top-banner a.navbar-brand:hover, .top-banner nav a:hover  {
+	color: #333333;
 }
 .navbar-brand {
   height: auto;
@@ -51,6 +51,7 @@ header {
 }
 .nav li {
   margin-top: 6px;
+  margin-right: 2em;
 }
 .navbar-toggle {
     margin: 3px 0 0 0;
@@ -115,5 +116,8 @@ a:hover, a:active {
   a, a:visited {
     font-weight: 400; 
     color: #CCCCCC;
+  }
+  a:hover, a:active {
+    font-weight: 400; 
   }
 }
