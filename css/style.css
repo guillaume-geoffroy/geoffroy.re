@@ -47,6 +47,7 @@ header {
 .navbar-brand {
   height: auto;
   margin-top: 6px;
+  margin-bottom: 5px;
 }
 .nav li {
   margin-top: 6px;
@@ -58,6 +59,7 @@ header {
 .top-banner .glyphicon-menu-hamburger {
   color:#AAAAAA;
 }
+
 a, a:visited {
     color: #AAAAAA;
     text-decoration: none;
