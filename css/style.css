@@ -1,3 +1,6 @@
+---
+---
+
 body {
   background-color:#f9f9f9;
   font-family: 'Helvetica Neue', Helvetica, 'Open Sans';
@@ -62,7 +65,7 @@ header {
 }
 
 a, a:visited {
-    color: #AAAAAA;
+    color: {{ site.color-grey }} ;
     text-decoration: none;
     background-color: transparent;
 	font-weight: 300;
@@ -94,16 +97,18 @@ a:hover, a:active {
 }
 
 .content {
-	max-width: 600px;
-	margin-left: auto;
-	margin-right: auto;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 .content .col-xs-1, .content .col-sm-1, .content .col-md-1, .content .col-lg-1, .content .col-xs-2, .content .col-sm-2, .content .col-md-2, .content .col-lg-2, .content .col-xs-3, .content .col-sm-3, .content .col-md-3, .content .col-lg-3, .content .col-xs-4, .content .col-sm-4, .content .col-md-4, .content .col-lg-4, .content .col-xs-5, .content .col-sm-5, .content .col-md-5, .content .col-lg-5, .content .col-xs-6, .content .col-sm-6, .content .col-md-6, .content .col-lg-6, .content .col-xs-7, .content .col-sm-7, .content .col-md-7, .content .col-lg-7, .content .col-xs-8, .content .col-sm-8, .content .col-md-8, .content .col-lg-8, .content .col-xs-9, .content .col-sm-9, .content .col-md-9, .content .col-lg-9, .content .col-xs-10, .content .col-sm-10, .content .col-md-10, .content .col-lg-10, .content .col-xs-11, .content .col-sm-11, .content .col-md-11, .content .col-lg-11, .content .col-xs-12, .content .col-sm-12, .content .col-md-12, .content .col-lg-12 {
-    position: relative;
-    min-height: 1px;
-    padding-left: 0;
-    padding-right: 0;
+  position: relative;
+  min-height: 1px;
+  padding-left: 0;
+  padding-right: 0;
+}
+h2 {
+  color: {{ site.color-green }};
 }
 
 @media (max-width: 978px) {
@@ -114,8 +119,7 @@ a:hover, a:active {
     padding: 1em 1em;
   }
   a, a:visited {
-    font-weight: 400; 
-    color: #CCCCCC;
+    font-weight: 400;
   }
   a:hover, a:active {
     font-weight: 400; 

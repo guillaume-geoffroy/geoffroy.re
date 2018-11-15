@@ -1,9 +1,11 @@
 markdown: kramdown
 # Site settings
 title: Guillaume Geoffroy
-description: > # this means to ignore newlines until "baseurl:"
-  Page personnelle de Guillaume Geoffroy. Mathématiques, informatique théorique, logique, théorie de la démonstration et comédies musicales mathématiques !
 baseurl: ""
+
+color-green: "#017100"
+color-red: "#800000"
+color-grey: "#AAAAAA"
 
 #gems:
 #  - jekyll-redirect-from
