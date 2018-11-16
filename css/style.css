@@ -1,9 +1,13 @@
 ---
 ---
 
+html {
+	font-size: 24px;
+}
+
 body {
   background-color:#f9f9f9;
-  font-family: 'Helvetica Neue', 'Open Sans';
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 200;
   padding: 0;
 }
@@ -12,9 +16,9 @@ body strong { font-weight: 300; }
 header {
     background: url("/images/Mafate 1 - Caroline et Louis VOLANT - CC BY-NC-SA 2.0.jpg") no-repeat;
     background-attachment: fixed;
-    background-position: center bottom;
-    background-size: cover;
-    height: 25em;
+    background-position: center top;
+    background-size: auto;
+    height: 25rem;
 	max-height: 40vh;
 }
 
@@ -23,49 +27,42 @@ header {
 	top: 0px;
 	background-color: rgba(255, 255, 255, 0.7);
 	border-bottom: 1pt solid rgba(255, 255, 255, 0.8);
-    width: 100%
+    width: 100%;
 }
+
 .navbar {
-    width: 80%;
-    margin-right: auto;
-    margin-left: auto;
-	margin-top: 0;
-	margin-bottom: 0;
-	padding-top: 5px;
-	padding-bottom: 3px;
-	min-height: 42px;
-	background-color: transparent;
-	border: none;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: transparent;
+  border: none;
 }
-.top-banner a.navbar-brand, .top-banner a:visited, .top-banner nav a, .top-banner nav a:visited  {
-	color: #666666;
-	font-size: 21px;
-    text-decoration: none;
-	padding: 0;
-	font-weight: 300;
+.navbar-light button.navbar-toggler {outline:none;}
+.navbar-light button.navbar-toggler:hover {background-color: rgba(255, 255, 255, 0.3);}
+.navbar-light button.navbar-toggler:active {background-color: rgba(255, 255, 255, 0.6);}
+.navbar-light .navbar-nav a.nav-item {
+	margin-left: 1rem;
 }
-.top-banner a.navbar-brand:hover, .top-banner nav a:hover  {
+.navbar-light a.navbar-brand, .navbar-light a.navbar-brand:visited, .navbar-light .navbar-nav a.nav-item, .navbar-light .navbar-nav a.nav-item:visited  {
+  color: rgba(0.4,0.4,0.4,1);
+  text-decoration: none;
+  font-weight: 300;
+  font-size:1.25rem;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
+  font-weight: 100;
+}
+.navbar-light a.navbar-brand:hover, .navbar-light a.nav-item:hover  {
 	color: #333333;
-}
-.navbar-brand {
-  height: auto;
-  margin-top: 6px;
-  margin-bottom: 5px;
-}
+} 
+
+
 .navbar-brand img {
-  float:left;
-  margin-right: 3px;
-}
-.nav li {
-  margin-top: 6px;
-  margin-right: 2em;
-}
-.navbar-toggle {
-    margin: 3px 0 0 0;
-	padding: 3px 5px 1px 5px;
-}
-.top-banner .glyphicon-menu-hamburger {
-  color:#AAAAAA;
+  float: left;
+  height: 1.8rem;
+  width: 1.8rem;
+  margin-right: 0.5rem;
 }
 
 a, a:visited {
@@ -81,12 +78,16 @@ a:hover, a:active {
 	font-weight: 300;
 }
 
+.container {
+	padding: 0;
+}
+
 .flag {
-  height: 16px;
-  width: 24px;
+  height: 1.2rem;
+  width: 1.4rem;
   border: none;
   border-radius: 0;
-  margin-top: 3px;
+  margin-right: 0.3rem;
 }
 
 .body {
@@ -101,7 +102,7 @@ a:hover, a:active {
 }
 
 .content {
-  max-width: 600px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -113,19 +114,35 @@ a:hover, a:active {
 }
 h2 {
   color: {{ site.color-green }};
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
+  font-weight: 100;
 }
 
 @media (max-width: 978px) {
+  html {
+    font-size: 14px;
+  }
   .body {
     padding: 2em 2em;
   }
   .footer{
     padding: 1em 1em;
   }
-  a, a:visited {
+  a,a:visited {
     font-weight: 400;
   }
   a:hover, a:active {
     font-weight: 400; 
+  }
+  .navbar {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .navbar-light a.navbar-brand, .navbar-light a.navbar-brand:visited, .navbar-light .navbar-nav a.nav-item, .navbar-light .navbar-nav a.nav-item:visited  {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-weight: 200;
+  }
+  header {
+      background-size: auto 80vh;
   }
 }

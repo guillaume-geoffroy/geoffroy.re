@@ -1,23 +1,18 @@
 <header> <!-- Background image by Caroline and Louis VOLANT - CC BY-NC-SA 2.0 -->
-  <div class="top-banner" > <div class="wrapper-top">
+  <div class="top-banner" >
 
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
-        </button>
-        <a class="navbar-brand" href="/{{ page.language }}/"><img src="/images/favicon-grey.png" height="20px" width="20px">Guillaume Geoffroy</a> 
-     </div>
-
-      <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-          <li><a href="/{{ page.language }}/research">{% if page.language == "en" %}Research{% else %}Recherche{% endif %}</a></li>
-          <li><a href="/docs/cv-guillaume-geoffroy-{{ page.language }}.pdf">CV</a></li>
+  <nav class="navbar navbar-light navbar-expand-sm justify-content-end">
+    <a class="navbar-brand" href="/{{ page.language }}/"><img src="/images/favicon-grey.png">Guillaume Geoffroy</a> 
+    <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse flex-grow-0 ml-auto" id="navbarSupportedContent">
+      <div class="navbar-nav text-right">
+        <a class="nav-item" href="/{{ page.language }}/research">{% if page.language == "en" %}Research{% else %}Recherche{% endif %}</a>
+        <a class="nav-item" href="/docs/cv-guillaume-geoffroy-{{ page.language }}.pdf">CV</a>
       </div>
     </div>
   </nav>
 
-  </div></div>
+  </div>
 </header>
