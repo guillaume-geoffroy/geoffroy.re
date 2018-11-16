@@ -2,7 +2,7 @@
 ---
 
 html {
-	font-size: 24px;
+	font-size: 20px;
 }
 
 body {
@@ -31,7 +31,7 @@ header {
 }
 
 .navbar {
-  max-width: 1200px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 2em;
@@ -102,7 +102,7 @@ a:hover, a:active {
 }
 
 .content {
-  max-width: 1000px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -118,9 +118,9 @@ h2 {
   font-weight: 100;
 }
 
-@media (max-width: 978px) {
+@media (max-width: 900px) {
   html {
-    font-size: 14px;
+    font-size: 16px;
   }
   .body {
     padding: 2em 2em;
