@@ -17,7 +17,7 @@ header {
     background: url("/images/Mafate 1 - Caroline et Louis VOLANT - CC BY-NC-SA 2.0.jpg") no-repeat;
     background-attachment: fixed;
     background-position: center top;
-    background-size: auto;
+    background-size: cover;
     height: 25rem;
 	max-height: 40vh;
 }
