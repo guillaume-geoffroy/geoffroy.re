@@ -3,19 +3,19 @@ permalink: /
 title: 'Reditection...'
 language: fr
 ---
-<html>
+<!DOCTYPE html>
+<html lang="fr">
   <head>
 	  
   {% include meta.html %}
   {% include libraries.html %}
 
-  <noscript><meta http-equiv="refresh" content="0; /fr/"></noscript>
+  <noscript><meta http-equiv="refresh" content="0; url='/fr/'"></noscript>
 	  
   </head>
   <body>
 	  
   <script>
-	  
     var language = getCookie("language");
     if (language == "en") { window.location.replace("/en/"); }
     else { window.location.replace("/fr/"); }
