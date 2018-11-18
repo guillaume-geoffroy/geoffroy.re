@@ -83,7 +83,7 @@ a:hover, a:active {
 
 .flag {
   height: 1.2rem;
-  width: 1.4rem;
+  width: 1.5rem;
   border: none;
   border-radius: 0;
   margin-right: 0.3rem;
@@ -117,7 +117,7 @@ h2 {
   font-weight: 100;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 767px) {
   html {
     font-size: 16px;
   }
@@ -141,11 +141,29 @@ h2 {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif ;
     font-weight: 200;
   }
+  .md-up {
+	display: none;
+  }
+  .footer .col-2,.footer .col-10 { padding-left: 0; padding-right: 0; }
 }
 
-@media (max-aspect-ratio: 1/1) and (max-width: 900px) {
+@media (max-width: 575px) {
+  .sm-up {
+	display: none;
+  }
+}
+
+@media (max-width: 399px) {
+  .xs-up {
+	display: none;
+  }
+}
+
+@media (max-aspect-ratio: 1/1) and (max-width: 767px) {
   header {
       background-size: auto 80vh;
   }
 }
+
+.alenvers { unicode-bidi: bidi-override; direction: rtl; }
 
