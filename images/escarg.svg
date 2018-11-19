@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="21.677605"
-     inkscape:cy="23.371921"
+     inkscape:zoom="32"
+     inkscape:cx="12.658214"
+     inkscape:cy="20.878231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,10 +78,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1016.9291)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4242"
+       width="28.346457"
+       height="28.346457"
+       x="3.5433071"
+       y="1020.4724"
+       rx="3.4285715"
+       inkscape:export-xdpi="1625.6"
+       inkscape:export-ydpi="1625.6" />
     <g
-       id="g4227"
-       transform="matrix(1.0000761,0,0,0.99992041,0.46716923,15.723027)">
+       id="g4250">
       <path
+         transform="matrix(-1.0000761,0,0,0.99992041,34.965925,15.721985)"
          d="m 12.563772,1015.8704 c 0.123914,0.053 -0.05987,0.2352 -0.10998,0.2578 -0.384214,0.1737 -0.702451,-0.2925 -0.733511,-0.6176 -0.08054,-0.8429 0.819506,-1.3685 1.563256,-1.3275 1.415194,0.078 2.218487,1.573 2.039807,2.8645 -0.29042,2.0991 -2.527412,3.2383 -4.483629,2.8645 -2.8895324,-0.5522 -4.417349,-3.6664 -3.7961803,-6.3965 0.8604261,-3.7816 4.9781983,-5.7472 8.5852383,-4.8303 4.771132,1.2127 7.221351,6.454 5.963237,11.0363"
          sodipodi:t0="0"
          sodipodi:argument="-12.163168"
@@ -91,26 +101,30 @@
          sodipodi:cy="1015.8704"
          sodipodi:cx="12.563772"
          id="path3386"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          sodipodi:type="spiral" />
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path3390"
-         d="m 21.736771,1019.2166 c -1.515836,5.6571 -5.871512,3.9774 -5.871512,3.9774 0.09247,-0.208 2.165296,1.7829 5.14168,4.7592 1.517287,1.5173 5.906864,4.2059 6.222537,-4.7592"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         r="0.22913048"
-         cy="1021.5209"
-         cx="25.537918"
+         d="m 13.2275,1034.8575 c 1.515951,5.6567 5.871959,3.9771 5.871959,3.9771 -0.09248,-0.208 -2.165461,1.7827 -5.142072,4.7588 -1.517402,1.5172 -5.9073131,4.2056 -6.2230102,-4.7588"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="0.22911224"
+         rx="0.22914791"
+         transform="scale(-1,1)"
+         cy="1037.1615"
+         cx="-9.4260635"
          id="path3392"
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.6048736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.6048736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6048736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         ry="0.22911224"
+         rx="0.22914791"
+         transform="scale(-1,1)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.6048736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="circle3425"
-         cx="27.558224"
-         cy="1020.637"
-         r="0.22913048" />
+         cx="-7.4056039"
+         cy="1036.2777" />
     </g>
   </g>
 </svg>
