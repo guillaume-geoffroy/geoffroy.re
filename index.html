@@ -19,7 +19,7 @@ language: fr
   <script>
 	function setLanguage(l) { 
       setCookie("language", l, 30);
-	  window.location.replace(l);
+	  window.location.replace("/"+l+"/");
 	}
 	
     var language = getCookie("language");
