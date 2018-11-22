@@ -4,7 +4,7 @@ title: 'Reditection...'
 language: fr
 ---
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" style="font-size: 20px;">
   <head>
 	  
   {% include meta.html %}
@@ -15,12 +15,39 @@ language: fr
 	  
   </head>
   <body>
-	  
+
   <script>
+	function setLanguage(l) { 
+      setCookie("language", l, 30);
+	  window.location.replace(l);
+	}
+	
     var language = getCookie("language");
     if (language == "en") { window.location.replace("/en/"); }
-    else { window.location.replace("/fr/"); }
+    else if (language == "fr") { window.location.replace("/fr/"); }
+    else {
+	  if (self.fetch) {
+	    fetch("http://ip-api.com/json")
+		  .then(function(response) {
+			if (response.status == 200) return response.json();
+			else throw new Error("While loading https://api.ipdata.co: " + response.statusText);
+		  })
+	      .then(function(data) {
+			if (data.country == "France") setLanguage("fr");
+			else setLanguage("en");
+		  })
+	      .catch(function(error) {
+			setLanguage("fr");
+	      });
+	  } else { setLanguage("fr"); }
+	}
   </script>
+	
+  <div style="padding: 1rem;">
+    Redirection :
+    <a href="{{ page.page | prepend: '/fr/' }}" onclick="setCookie('language','fr',30);"><img class="flag" src="/lib/flag-icon-css/flags/4x3/fr.svg" alt="FR" style="height:1.2rem; width: 1.6rem; margin: .2em;"></a>
+    <a href="{{ page.page | prepend: '/en/' }}" onclick="setCookie('language','en',30);"><img class="flag" src="/lib/flag-icon-css/flags/4x3/gb.svg" alt="EN" style="height:1.2rem; width: 1.6rem; margin: .2em;"></a>
+  </div>
 	
   </body>
 </html>
