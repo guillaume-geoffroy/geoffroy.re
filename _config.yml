@@ -6,7 +6,8 @@ baseurl: ""
 color-green: "#017100"
 color-red: "#800000"
 color-grey: "#AAAAAA"
-libcdn: true
+
+nb-msg: 5
 
 #gems:
 #  - jekyll-redirect-from

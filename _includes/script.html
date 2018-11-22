@@ -1,0 +1,108 @@
+<script>
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+;(function($) {
+  if (typeof $.fn.tooltip.Constructor === 'undefined') {
+    throw new Error('Bootstrap Tooltip must be included first!');
+  }
+  
+  var Tooltip = $.fn.tooltip.Constructor;
+  
+  // add customClass and onLoad options to Bootstrap Tooltip
+  $.extend( Tooltip.Default, {
+    customClass: '',
+    onLoad: ''
+  });
+  
+  var _show = Tooltip.prototype.show;
+  
+  Tooltip.prototype.show = function () {
+    // invoke parent method
+    _show.apply(this,Array.prototype.slice.apply(arguments));
+     
+    var tip = this.getTipElement();
+   
+    if ( this.config.customClass ) {
+      $(tip).addClass(this.config.customClass);
+    }
+    
+    if ( this.config.onLoad ) {
+      this.config.onLoad(tip);
+    }
+  };
+})(window.jQuery);
+
+{% if jekyll.environment == "dev" %}
+$(document).ready(function () {
+
+  if (self.fetch) {
+    $('#footer-envelope').data('open', false);
+    $('#footer-envelope').data('loaded', false);
+	
+	$('#footer-envelope').click(function() { 
+	  if (! $(this).data('open')) {
+		envelope = this;
+        $(envelope).addClass('fa-envelope-open');
+        $(envelope).removeClass('fa-envelope');
+        $(envelope).data('open', true);
+		
+		if (! $(envelope).data('loaded')) {
+		  var msg = Math.floor(1 + Math.random() * {{ site.nb-msg }});
+		  var msg_url = '/msg/msg-' + msg + '.html';
+		  fetch(msg_url)
+			.then(function(response) {
+				if (response.status == 200) return response.text();
+				else throw new Error("While loading " + msg_url + ": " + response.statusText);
+			})
+		    .then(function(data) {
+		        $('#footer-envelope').tooltip({
+		            html: true,
+		            title: data,
+		            trigger: "manual",
+		            onLoad: function(that) {
+				      MathJax.Hub.Queue(["Typeset",MathJax.Hub,that]);
+					  MathJax.Hub.Queue(function () { $(envelope).tooltip('update'); });
+					}
+		        });
+		        $(envelope).data('toggle', "tooltip");
+		        $(envelope).data('placement', "top");
+				$(envelope).tooltip('show');	
+			})
+		    .catch(error => console.log('Error:', error));
+		} else {
+		  $(envelope).tooltip('show');	
+		}	
+	  } else {
+        $(envelope).addClass('fa-envelope');
+        $(envelope).removeClass('fa-envelope-open');
+        $(envelope).data('open', false);
+		$(envelope).tooltip('hide');
+	  }
+	 })
+  } else {
+    console.log('Info: Your browser does not support the Fetch API, disabling the envelope.')
+  }
+});
+{% endif %}
+
+</script>
