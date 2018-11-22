@@ -81,7 +81,10 @@ $(document).ready(function () {
 		            trigger: "manual",
 		            onLoad: function(that) {
 				      MathJax.Hub.Queue(["Typeset",MathJax.Hub,that]);
-					  MathJax.Hub.Queue(function () { $(envelope).tooltip('update'); });
+					  MathJax.Hub.Queue(function () {
+						  $(envelope).tooltip('update');
+						  $(that).css("visibility", "visible");
+					  });
 					}
 		        });
 		        $(envelope).data('toggle', "tooltip");
