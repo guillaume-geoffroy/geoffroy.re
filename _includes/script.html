@@ -21,7 +21,7 @@ function getCookie(cname) {
     return "";
 }
 
-;(function($) {
+;(function($) {	
   if (typeof $.fn.tooltip.Constructor === 'undefined') {
     throw new Error('Bootstrap Tooltip must be included first!');
   }
@@ -54,6 +54,7 @@ function getCookie(cname) {
 
 {% if jekyll.environment == "dev" %}
 $(document).ready(function () {
+  $("table").attr("cellspacing",0);
 
   if (self.fetch) {
     $('#footer-envelope').data('open', false);
