@@ -152,6 +152,35 @@ h6 {
 
 table { margin-top: .5rem }
 
+.date-text {
+  display: flex;
+  margin-bottom: -0.5rem;
+}
+.date-column {
+  text-align: right;
+  margin-right: .8rem;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 8rem;
+}
+@media (max-width: 767px) {
+  .date-text {
+    display: block;
+    margin-bottom: 0;
+  }
+  .date-column {
+    float: left;
+    width: auto;
+    margin-bottom: 0;
+    margin-right: .5rem;
+    text-align: right;
+    color: {{ site.color-grey }};
+  }
+  .date-column:empty {
+    display: none;
+  }
+}
+
 @media (max-width: 767px) {
   html {
     font-size: 16px;

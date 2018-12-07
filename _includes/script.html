@@ -21,6 +21,34 @@ function getCookie(cname) {
     return "";
 }
 
+function cvify() {
+$(document).ready(function() {
+  $("p").each(function() {
+    var date;
+    var text;
+    var s = $(this).get(0).innerHTML.split("::");
+    if (s.length == 2) {
+      date = s[0];
+      text = s[1];
+    } else {
+      date = "";
+      text = s[0];
+    }
+    $(this).replaceWith("<div class='date-text'><p class='date-column'>" + date + "</p><p>" + text + "</p>");
+  });
+});}
+
+function addpdflink(text, url) {
+$(document).ready(function() {
+  if ($("h1").length > 0) {
+    h = $("h1").first();
+    h.replaceWith('<table style="width: 100%; margin: -1rem 0 0 0;"><tr><td style="text-align: left; width: auto; min-width: 14rem;"><h1>' + h.html() + '</h1></td><td style="text-align: right; vertical-align: middle;"><a href="' + url + '">' + text + '</a></td></tr></table>');
+  } else {
+    $(".body").prepend('<p style="text-align: right;"><a href="' + url + '">' + text + '</a></p>');
+  }
+});
+}
+
 ;(function($) {	
   if (typeof $.fn.tooltip.Constructor === 'undefined') {
     throw new Error('Bootstrap Tooltip must be included first!');
@@ -108,5 +136,13 @@ $(document).ready(function () {
   }
 });
 {% endif %}
+</script>
 
+<script>
+{% if page.pdf %}
+  addpdflink('<i class="far fa-file-pdf"></i> PDF', '{{ page.pdf }}');
+{% endif %}
+{% if page.cvify %}
+  cvify();
+{% endif %}
 </script>

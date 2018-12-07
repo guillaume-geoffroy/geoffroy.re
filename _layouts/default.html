@@ -17,6 +17,9 @@ layout: default
   
 <div class="body">
 <div class="content">
+
+{% if page.pdf %}<noscript><p style="text-align: right"><a href='{{ page.pdf }}'><i class="far fa-file-pdf"></i> PDF</a></p></noscript>{% endif %}
+
 {% assign content = content | split: '<pre' %}
 
 {% for parts in content %}
