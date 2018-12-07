@@ -1,6 +1,8 @@
 markdown: kramdown
 # Site settings
-title: Guillaume Geoffroy
+title:
+  fr: "Guillaume Geoffroy - Page professionnelle"
+  en: "Guillaume Geoffroy - Professional page"
 baseurl: ""
 
 color-green: "#017100"
