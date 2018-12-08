@@ -1,6 +1,6 @@
 markdown: kramdown
 # Site settings
-title:
+titre:
   fr: "Guillaume Geoffroy - Page professionnelle"
   en: "Guillaume Geoffroy - Professional page"
 baseurl: ""
