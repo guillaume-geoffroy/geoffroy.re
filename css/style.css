@@ -150,7 +150,10 @@ h6 {
   font-size: 1.5rem;
 }
 
-table { margin-top: .5rem }
+table { margin-top: .5rem; }
+
+p { margin-bottom: 0.5rem; }
+.date-text p { margin-bottom: 1rem; }
 
 .date-text {
   display: flex;
