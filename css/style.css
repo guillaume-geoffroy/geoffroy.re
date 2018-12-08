@@ -32,7 +32,7 @@ header {
 }
 
 .navbar {
-  max-width: 1000px;
+  max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
   padding: 0em 2em;
@@ -102,7 +102,7 @@ a:hover, a:active {
 }
 
 .content {
-  max-width: 800px;
+  max-width: 40rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -171,7 +171,7 @@ p { margin-bottom: 0.5rem; }
     display: block;
     margin-bottom: 0;
   }
-  .date-column {
+  .date-text .date-column {
     float: left;
     width: auto;
     margin-bottom: 0;
