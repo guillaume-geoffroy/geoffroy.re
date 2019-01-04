@@ -20,7 +20,29 @@ header {
     background-position: center top;
     background-size: cover;
     height: 25rem;
-	max-height: 40vh;
+    max-height: 40vh;
+    background-size: 100vw auto;
+}
+
+
+@media (max-aspect-ratio: 1/1) {
+  header {
+    background-size: auto 80vw;
+    max-height: 40vw;
+  }
+}
+
+a, a:visited {
+    color: {{ site.color-grey }} ;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 300;
+}
+a:hover, a:active {
+    color: #666666;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 300;
 }
 
 .top-banner {
@@ -46,7 +68,7 @@ header {
 	margin-left: 1rem;
 }
 .navbar-light a.navbar-brand, .navbar-light a.navbar-brand:visited, .navbar-light .navbar-nav a.nav-item, .navbar-light .navbar-nav a.nav-item:visited  {
-  color: rgba(0.4,0.4,0.4,1);
+  color: #666666; /*rgba(0.4,0.4,0.4,1);*/
   text-decoration: none;
   font-weight: 300;
   font-size:1.25rem;
@@ -65,18 +87,6 @@ header {
   margin-right: 0.5rem;
 }
 
-a, a:visited {
-    color: {{ site.color-grey }} ;
-    text-decoration: none;
-    background-color: transparent;
-	font-weight: 300;
-}
-a:hover, a:active {
-    color: #666666;
-    text-decoration: none;
-    background-color: transparent;
-	font-weight: 300;
-}
 
 .container {
 	padding: 0;
@@ -223,12 +233,6 @@ p { margin-bottom: 0.5rem; }
 @media (max-width: 399px) {
   .xs-up {
 	display: none;
-  }
-}
-
-@media (max-aspect-ratio: 1/1) and (max-width: 767px) {
-  header {
-      background-size: auto 80vh;
   }
 }
 
