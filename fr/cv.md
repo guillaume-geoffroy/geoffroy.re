@@ -40,7 +40,7 @@ Recherche
 
 Guillaume Geoffroy. *Réalisabilité classique : nouveaux outils et applications*. Thèse de doctorat.
 
-Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Un modèle de réalisabilité de ZFC*.
+Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
 
 ### Exposés
 

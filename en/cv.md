@@ -40,7 +40,7 @@ Research
 
 Guillaume Geoffroy. *Classical realizability: new tools and applications*. Ph.D. thesis.
 
-Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *A realizability model of ZFC*.
+Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Realizability models of ZF with weak forms of choice*.
 
 ### Talks
 
