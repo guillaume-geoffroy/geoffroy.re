@@ -15,7 +15,7 @@ Mes publications
 En préparation
 ==============
 
-* Réalisabilité classique : nouveaux outils et applications. *Thèse de doctorat* ([ébauche](/docs/these-brouillon-18-01-2019.pdf)).
+* Réalisabilité classique : nouveaux outils et applications. *Thèse de doctorat* ([ébauche](/docs/these-latest.pdf)).
 
 Quelques exposés
 ================
