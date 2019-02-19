@@ -15,7 +15,7 @@ Publications
 In preparation
 ==============
 
-* Classical realizability: new tools and applications. *Ph.D. thesis*. ([draft](/docs/these-latest.pdf)) -- in French).
+* [Classical realizability: new tools and applications.](/docs/these-pre-soutenance.pdf). *Ph.D. thesis* (in French -- to be defended).
 
 Talks
 =====
