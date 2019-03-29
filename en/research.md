@@ -15,7 +15,7 @@ Publications
 In preparation
 ==============
 
-* [Classical realizability: new tools and applications.](/docs/these-pre-soutenance.pdf). *Ph.D. thesis* (in French -- to be defended).
+* [Classical realizability: new tools and applications.](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
 
 Talks
 =====

@@ -15,7 +15,7 @@ Mes publications
 En préparation
 ==============
 
-* [Réalisabilité classique : nouveaux outils et applications](/docs/these-pre-soutenance.pdf). *Thèse de doctorat* (à soutenir).
+* [Réalisabilité classique : nouveaux outils et applications](/docs/these.pdf). *Thèse de doctorat* (soutenue le 29 mars 2019).
 
 Quelques exposés
 ================

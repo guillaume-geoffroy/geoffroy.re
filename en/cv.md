@@ -15,7 +15,7 @@ Since 09/2018 :: **Visiting assistant professor (ATER)** at I2M (Institut de Mat
 Education
 =========
 
-Since 09/2018 :: **Ph.D. in mathematics** (ongoing), Aix-Marseille University. *Classical realizability: new tools and applications*. Advisor: Laurent Regnier. **Defense: March 2019**.
+2015 -- 2019 :: **Ph.D. in mathematics**, Aix-Marseille University. *Classical realizability: new tools and applications*. Advisor: Laurent Regnier. Defended on 29 March 2019.
 
 2011 -- 2015 :: **École Normale Supérieure diploma**, École Normale Supérieure, Paris. Major: mathematics, minor: computer science.
 

@@ -15,7 +15,7 @@ Depuis 09/2018 :: **Attaché temporaire d’enseignement et de recherche** à l�
 Formation
 =========
 
-Depuis 09/2018 :: **Doctorat en mathématiques** (en cours), Université d’Aix-Marseille. *Réalisabilité classique : nouveaux outils et applications*, sous la direction de Laurent Regnier. **Soutenance : mars 2019**.
+2015 -- 2019 :: **Doctorat en mathématiques**, Université d’Aix-Marseille. *Réalisabilité classique : nouveaux outils et applications*, sous la direction de Laurent Regnier. Soutenue le 29 mars 2019.
 
 2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure,    Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
 
