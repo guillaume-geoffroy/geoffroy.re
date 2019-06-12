@@ -12,10 +12,12 @@ Mes publications
 
 * [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
 
+* [Réalisabilité classique : nouveaux outils et applications](/docs/these.pdf). *Thèse de doctorat* (soutenue le 29 mars 2019).
+
 En préparation
 ==============
 
-* [Réalisabilité classique : nouveaux outils et applications](/docs/these.pdf). *Thèse de doctorat* (soutenue le 29 mars 2019).
+* Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
 
 Quelques exposés
 ================

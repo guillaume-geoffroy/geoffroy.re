@@ -35,10 +35,14 @@ Recherche
 ### Publications avec comité de lecture 
 
 07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
- 
+
+### Thèse de doctorat
+
+03/2019 :: Guillaume Geoffroy. *Réalisabilité classique : nouveaux outils et applications*. Thèse de doctorat.
+
 ### Publications en préparation 
 
-Guillaume Geoffroy. *Réalisabilité classique : nouveaux outils et applications*. Thèse de doctorat.
+Guillaume Geoffroy. *Réalisibilité classique: Gimel 2, un outil pour étudier les modèles dénotationnels de langages de programmation*.
 
 Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
 

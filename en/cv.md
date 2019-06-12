@@ -36,9 +36,11 @@ Research
 
 07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
  
-### Publications in preparation 
+### Ph.D. thesis
 
-Guillaume Geoffroy. *Classical realizability: new tools and applications*. Ph.D. thesis.
+03/2019 :: Guillaume Geoffroy. *Classical realizability: new tools and applications*. Ph.D. thesis.
+ 
+### Publications in preparation 
 
 Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Realizability models of ZF with weak forms of choice*.
 

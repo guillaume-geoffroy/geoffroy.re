@@ -11,11 +11,13 @@ Publications
 ============
 
 * [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
+* [Classical realizability: new tools and applications.](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
 
 In preparation
 ==============
 
-* [Classical realizability: new tools and applications.](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
+* Guillaume Geoffroy. *Classical realizability's Gimel 2 as a tool to study denotational models of programming languages*.
+* Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Realizability models of ZF with weak forms of choice*.
 
 Talks
 =====
