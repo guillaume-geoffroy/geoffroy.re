@@ -42,6 +42,8 @@ Research
  
 ### Publications in preparation 
 
+Guillaume Geoffroy. *Classical realizability's Gimel 2 as a tool to study denotational models of programming languages*.
+
 Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Realizability models of ZF with weak forms of choice*.
 
 ### Talks
