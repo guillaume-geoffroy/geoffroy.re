@@ -48,9 +48,7 @@ Recherche
 
 ### Publications en préparation 
 
-Guillaume Geoffroy. *Réalisibilité classique: Gimel 2, un outil pour étudier les modèles dénotationnels de langages de programmation*.
-
-Laura Fontanella, Guillaume Geoffroy, Jean-Louis Krivine. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
+Laura Fontanella, Guillaume Geoffroy. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
 
 ### Exposés
 
