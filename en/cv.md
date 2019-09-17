@@ -80,7 +80,7 @@ Co-founder and vice-president of Pi Day association ([www.piday.fr](http://www.p
 Teaching 
 ========
 
-Since 09/2018 :: **Visiting assistant professor (ATER)** at Aix-Marseille University (192h per year). Linear algebra; methodology; mathematical reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
+2018 -- 2019 :: **Visiting assistant professor (ATER)** at Aix-Marseille University (192h per year). Linear algebra; methodology; mathematical reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
 
 2015 -- 2018 :: **Teaching assistant** (chargé de mission d’enseignement) at Aix-Marseille University (64h per year). Introductory analysis; algebra and geometry (1st year university -- L1); C programming (1st and 2nd year university -- L1 & L2); logic and computability (graduate course -- M2); research initiation workshops (high school). 
 

@@ -80,7 +80,7 @@ Membre fondateur et vice-président de l’association Pi Day ([www.piday.fr](ht
 Enseignement
 ============
 
-Depuis 09/2018 :: **ATER** à l’Université d’Aix-Marseille (192h par an). Algèbre linéaire ;    méthodologie ; langage mathématique (cours et travaux dirigés, L1) ; programmation C et système ; fonctionnement des ordinateurs (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
+2018 -- 2019 :: **ATER** à l’Université d’Aix-Marseille (192h par an). Algèbre linéaire ;    méthodologie ; langage mathématique (cours et travaux dirigés, L1) ; programmation C et système ; fonctionnement des ordinateurs (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
 
 2015 -- 2018 :: **Mission d’enseignement** à l’Université d’Aix-Marseille (64h par an). Introduction à l’analyse ; algèbre et géométrie (travaux dirigés, L1) ; programmation en C (travaux pratiques, L1 et L2) ; logique et calculabilité (cours magistral, M2) ; ateliers d’initiation à la recherche (lycée). 
 
