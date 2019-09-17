@@ -140,7 +140,7 @@ $(document).ready(function () {
 
 <script>
 {% if page.pdf %}
-  addpdflink('<i class="far fa-file-pdf"></i>{% if page.pdfood %}<i class="fas fa-hourglass-half"></i>{% endif %} PDF', '{{ page.pdf }}');
+  addpdflink('{% if page.pdfood %}<i class="fas fa-hourglass-half"></i>{% else %}<i class="far fa-file-pdf"></i>{% endif %} PDF', '{{ page.pdf }}');
 {% endif %}
 {% if page.cvify %}
   cvify();
