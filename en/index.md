@@ -5,7 +5,7 @@ language: en
 page: /
 ---
 
-I am a visiting assistant professor (ATER) at [I2M](https://www.i2m.univ-amu.fr/) (institut de mathématiques de Marseille). My advisor is [Laurent Regnier](https://www.i2m.univ-amu.fr/perso/laurent.regnier/). My research topics include classical realizability, denotational semantics of programs and other subjects connected to mathematics, computer science and logic.
+I am a post-doc at the [department of computer science and engineering](https://www.cs.unibo.it) of the university of Bologna. I work with [Ugo Dal Lago](http://www.cs.unibo.it/~dallago/) on project DIAPASoN -- Differential Program Semantics. More generally, my research lies at the junction between mathematics, computer science and logic and includes such topics as classical realizability and denotational semantics of programs.
 
 I am also vice-president and one of the founders of [Pi Day association](https://www.piday.fr), a non-profit organization for popularization of mathematics. Among other things, we produce [mathematical musicals](http://www.piday.fr/extraits-video-2017/)!
 

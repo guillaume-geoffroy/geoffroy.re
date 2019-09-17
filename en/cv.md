@@ -4,13 +4,19 @@ layout: default
 language: en
 page: /cv/
 pdf: /docs/cv-guillaume-geoffroy-en.pdf
+pdfood: true
 cvify: true
 ---
 
 Current position
 ================
 
-Since 09/2018 :: **Visiting assistant professor (ATER)** at I2M (Institut de Mathématiques de Marseille).
+Since 09/2019 :: **Post-doc** (*assegnista di ricerca*) at the departement of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
+
+Past positions
+================
+
+2018 -- 2019 :: **Visiting assistant professor (ATER)** at I2M (Institut de Mathématiques de Marseille).
 
 Education
 =========

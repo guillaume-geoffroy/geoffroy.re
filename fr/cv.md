@@ -4,13 +4,19 @@ layout: default
 language: fr
 page: /cv/
 pdf: /docs/cv-guillaume-geoffroy-fr.pdf
+pdfood: true
 cvify: true
 ---
 
 Poste actuel
 ============
 
-Depuis 09/2018 :: **Attaché temporaire d’enseignement et de recherche** à l’Institut de Mathématiques de Marseille.
+Depuis 09/2019 :: **Post-doctorant** (*assegnista di ricerca*) au département d'informatiques et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
+
+Poste passés
+============
+
+2018 -- 2019 :: **Attaché temporaire d’enseignement et de recherche** à l’Institut de Mathématiques de Marseille.
 
 Formation
 =========
