@@ -11,7 +11,7 @@ cvify: true
 Poste actuel
 ============
 
-Depuis 09/2019 :: **Post-doctorant** (*assegnista di ricerca*) au département d'informatiques et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
+Depuis 09/2019 :: **Post-doctorant** (*assegnista di ricerca*) au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
 
 Poste passés
 ============
