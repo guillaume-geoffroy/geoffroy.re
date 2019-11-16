@@ -48,7 +48,7 @@ Research
  
 ### Publications in preparation 
 
-Laura Fontanella, Guillaume Geoffroy. *Realizability models of ZF with weak forms of choice*.
+Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*.
 
 ### Talks
 
