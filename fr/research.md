@@ -17,7 +17,7 @@ Mes publications
 En préparation
 ==============
 
-* Laura Fontanella, Guillaume Geoffroy. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
+* [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2019-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). Avec [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). 
 
 Quelques exposés
 ================
