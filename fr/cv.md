@@ -13,8 +13,8 @@ Poste actuel
 
 Depuis 09/2019 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
 
-Poste passés
-============
+Postes passés
+=============
 
 2018 -- 2019 :: **Attaché temporaire d’enseignement et de recherche** à l’Institut de Mathématiques de Marseille.
 
