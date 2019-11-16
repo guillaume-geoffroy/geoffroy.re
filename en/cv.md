@@ -4,7 +4,7 @@ layout: default
 language: en
 page: /cv/
 pdf: /docs/cv-guillaume-geoffroy-en.pdf
-pdfood: true
+pdfood: false
 cvify: true
 ---
 
