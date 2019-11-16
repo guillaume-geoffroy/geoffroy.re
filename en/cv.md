@@ -11,7 +11,7 @@ cvify: true
 Current position
 ================
 
-Since 09/2019 :: **Post-doc** (*assegnista di ricerca*) at the departement of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
+Since 09/2019 :: **Post-doc** (*assegno di ricerca*) at the departement of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
 
 Past positions
 ================

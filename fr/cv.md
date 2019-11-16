@@ -11,7 +11,7 @@ cvify: true
 Poste actuel
 ============
 
-Depuis 09/2019 :: **Post-doctorant** (*assegnista di ricerca*) au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
+Depuis 09/2019 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
 
 Poste passés
 ============
@@ -47,6 +47,10 @@ Recherche
 03/2019 :: Guillaume Geoffroy. *Réalisabilité classique : nouveaux outils et applications*. Thèse de doctorat.
 
 ### Publications en préparation 
+
+{::comment}
+|| Guillaume Geoffroy. *Réalisibilité classique: Gimel 2, un outil pour étudier les modèles dénotationnels de langages de programmation*.
+{::/comment}
 
 Laura Fontanella, Guillaume Geoffroy. *Modèles de réalisabilité de ZF et formes faibles de l'axiome du choix*.
 
