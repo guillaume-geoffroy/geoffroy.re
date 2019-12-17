@@ -6,16 +6,63 @@ html {
 }
 
 body {
-  background-color:#f9f9f9;
-  font-family: 'Open Sans', 'Helvetica Neue', sans-serif ;
+  --main-background-color: #f9f9f9;
+  --content-background-color: #ffffff;
+  --poster: url("/images/Mafate 1 - Caroline et Louis VOLANT - CC BY-NC-SA 2.0.jpg");
+  --footer-border-color: #e8e8e8;
+  --main-text-color: #212529;
+  --secondary-text-color: {{ site.color-grey }};
+  --link-color: {{ site.color-grey }};
+  --link-active-color-active: #666666;
+  --top-banner-background-color: rgba(255, 255, 255, 0.7);
+  --top-banner-border-color: 1pt solid rgba(255, 255, 255, 0.8);
+  --my-icon: url("/images/favicon-grey.png");
+  --navbar-toggler-icon: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  --navbar-toggler-hover-color: rgba(255, 255, 255, 0.3);
+  --navbar-toggler-active-color: rgba(255, 255, 255, 0.6);
+  --navbar-link-color: #666666; /*rgba(0.4,0.4,0.4,1);*/
+  --navbar-link-hover-color: #333333;
+  --header-1-color: {{ site.color-green }};
+  --header-2-color: {{ site.color-red }};
+  --header-3-color: {{ site.color-grey }};
+  --header-4-color: {{ site.color-green }};
+  --header-5-color: {{ site.color-red }};
+  --header-6-color: {{ site.color-grey }};
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 200;
   padding: 0;
   line-height: 1.5;
 }
 body strong { font-weight: 400; }
+body.darkmode {
+  --main-background-color: hsl(240,50%,7%); /*#f9f9f9;*/
+  --content-background-color: rgb(0,0,38); /*#ffffff;*/
+  --poster: url("/images/dark-mode-placeholder.jpg");
+  --footer-border-color: #e8e8e8;
+  --main-text-color: hsl(34, 23%, 76%); /*#212529;*/
+  --secondary-text-color: {{ site.color-grey }};
+  --link-color: hsl(34, 13%, 66%);
+  --link-active-color: hsl(34, 53%, 86%);
+  --top-banner-background-color: hsla(240,100%,7%,0.4);
+  --top-banner-border-color: 1pt solid  hsla(240,100%,7%,0.6);
+  --my-icon: url("/images/favicon-darkmode.png");
+  --navbar-toggler-icon: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(208, 196, 180,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  --navbar-toggler-hover-color: rgba(255, 255, 255, 0.1);
+  --navbar-toggler-active-color: rgba(255, 255, 255, 0.3);
+  --navbar-link-color: hsl(34, 23%, 76%); /*rgba(0.4,0.4,0.4,1);*/
+  --navbar-link-hover-color: hsl(34, 53%, 86%);
+  --header-1-color: rgb(102,204,169);
+  --header-2-color: rgb(255,182,143);
+  --header-3-color: hsl(219, 59%, 66%);/*rgb(100,149,237);*/
+  --header-4-color: {{ site.color-green }};
+  --header-5-color: {{ site.color-red }};
+  --header-6-color: {{ site.color-grey }};
+}
 
 header {
-    background: url("/images/Mafate 1 - Caroline et Louis VOLANT - CC BY-NC-SA 2.0.jpg") no-repeat;
+    background: var(--poster) no-repeat;
     background-attachment: fixed;
     background-position: center top;
     background-size: cover;
@@ -33,13 +80,13 @@ header {
 }
 
 a, a:visited {
-    color: {{ site.color-grey }} ;
+    color: var(--link-color);
     text-decoration: none;
     background-color: transparent;
     font-weight: 300;
 }
 a:hover, a:active {
-    color: #666666;
+    color: var(--link-active-color);
     text-decoration: none;
     background-color: transparent;
     font-weight: 300;
@@ -48,8 +95,8 @@ a:hover, a:active {
 .top-banner {
 	position: fixed;
 	top: 0px;
-	background-color: rgba(255, 255, 255, 0.7);
-	border-bottom: 1pt solid rgba(255, 255, 255, 0.8);
+	background-color: var(--top-banner-background-color);
+	border-bottom: 1pt solid var(--top-banner-background-color);
     width: 100%;
 }
 
@@ -62,29 +109,34 @@ a:hover, a:active {
   border: none;
 }
 .navbar-light button.navbar-toggler {outline:none; margin: 0.3rem;}
-.navbar-light button.navbar-toggler:hover {background-color: rgba(255, 255, 255, 0.3);}
-.navbar-light button.navbar-toggler:active {background-color: rgba(255, 255, 255, 0.6);}
+.navbar-light button.navbar-toggler:hover {background-color: var(--navbar-toggler-hover-color);}
+.navbar-light button.navbar-toggler:active {background-color: var(--navbar-toggler-active-color);}
 .navbar-light .navbar-nav a.nav-item {
 	margin-left: 1rem;
 }
 .navbar-light a.navbar-brand, .navbar-light a.navbar-brand:visited, .navbar-light .navbar-nav a.nav-item, .navbar-light .navbar-nav a.nav-item:visited  {
-  color: #666666; /*rgba(0.4,0.4,0.4,1);*/
+  color: var(--navbar-link-color); /*rgba(0.4,0.4,0.4,1);*/
   text-decoration: none;
   font-weight: 300;
   font-size:1.25rem;
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
 }
-.navbar-light a.navbar-brand:hover, .navbar-light a.nav-item:hover  {
-	color: #333333;
-} 
+.navbar-light a.navbar-brand:hover, .navbar-light .navbar-nav a.nav-item:hover  {
+	color: var(--navbar-link-hover-color);
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: var(--navbar-toggler-icon);
+}
 
 
-.navbar-brand img {
+.navbar-brand .img {
   float: left;
   height: 1.8rem;
   width: 1.8rem;
+  background-size: 1.8rem 1.8rem;
   margin-right: 0.5rem;
+  background-image: var(--my-icon);
 }
 
 
@@ -99,15 +151,18 @@ a:hover, a:active {
   border-radius: 0;
   margin-right: 0.3rem;
 }
+.darkmode .flag {
+    filter: sepia(.5);
+}
 
 .body {
-  background-color:#ffffff;
+  background-color: var(--content-background-color);
   padding: 4em 2em;
 }
 
 .footer{
-  border-top:1px solid #e8e8e8;
-  background-color:#f9f9f9;
+  border-top:1px solid var(--footer-border-color)
+  background-color: var(--main-background-color);
   padding: 1em 2em;
 }
 
@@ -123,38 +178,38 @@ a:hover, a:active {
   padding-right: 0;
 }
 h1 {
-  color: {{ site.color-green }};
+  color: var(--header-1-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 2rem;
   margin-top: 1rem;
 }
 h2 {
-  color: {{ site.color-red }};
+  color: var(--header-2-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 1.5rem;
 }
 h3 {
-  color: {{ site.color-grey }};
+  color: var(--header-3-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 1.5rem;
 }
 h4 {
-  color: {{ site.color-green }};
+  color: var(--header-4-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 2rem;
 }
 h5 {
-  color: {{ site.color-red }};
+  color: var(--header-5-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 1.5rem;
 }
 h6 {
-  color: {{ site.color-grey }};
+  color: var(--header-6-color);
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif ;
   font-weight: 100;
   font-size: 1.5rem;
@@ -187,7 +242,7 @@ p { margin-bottom: 0.5rem; }
     margin-bottom: 0;
     margin-right: .5rem;
     text-align: right;
-    color: {{ site.color-grey }};
+    color: var(--secondary-text-color);
   }
   .date-column:empty {
     display: none;
