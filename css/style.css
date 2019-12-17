@@ -13,7 +13,7 @@ body {
   --main-text-color: #212529;
   --secondary-text-color: {{ site.color-grey }};
   --link-color: {{ site.color-grey }};
-  --link-active-color-active: #666666;
+  --link-active-color: #666666;
   --top-banner-background-color: rgba(255, 255, 255, 0.7);
   --top-banner-border-color: 1pt solid rgba(255, 255, 255, 0.8);
   --my-icon: url("/images/favicon-grey.png");
