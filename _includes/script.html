@@ -80,6 +80,29 @@ $(document).ready(function() {
   };
 })(window.jQuery);
 
+// Dark mode
+if (getCookie("darkmode") == "on"
+    || (getCookie("darkmode") == ""
+	&& window.matchMedia
+	&& window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.addEventListener('DOMContentLoaded', function() {
+	// Needs to run even before $(document).ready()
+	document.body.classList.add("darkmode");
+    });
+}
+   
+$(document).ready(function () {
+    $('.dark-mode-button').click(function() {
+	$('body').addClass('darkmode');
+	setCookie("darkmode","on", 30);
+    });
+    $('.light-mode-button').click(function() {
+	$('body').removeClass('darkmode');
+	setCookie("darkmode", "off", 30);
+    });
+});
+       
+  
 {% if jekyll.environment == "dev" %}
 $(document).ready(function () {
   $("table").attr("cellspacing",0);

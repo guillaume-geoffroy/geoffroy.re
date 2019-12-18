@@ -15,7 +15,7 @@ body {
   --link-color: {{ site.color-grey }};
   --link-active-color: #666666;
   --top-banner-background-color: rgba(255, 255, 255, 0.7);
-  --top-banner-border-color: 1pt solid rgba(255, 255, 255, 0.8);
+  --top-banner-border-color: rgba(255, 255, 255, 0.4);
   --my-icon: url("/images/favicon-grey.png");
   --navbar-toggler-icon: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
   --navbar-toggler-hover-color: rgba(255, 255, 255, 0.3);
@@ -37,29 +37,33 @@ body {
 }
 body strong { font-weight: 400; }
 body.darkmode {
-  --main-background-color: hsl(240,50%,7%); /*#f9f9f9;*/
-  --content-background-color: rgb(0,0,38); /*#ffffff;*/
-  --poster: url("/images/dark-mode-placeholder.jpg");
+  --main-background-color: hsl(240,8%,2%);
+  --content-background-color: hsl(240,20%,5%);
+  --poster: url("/images/By Luca Zanon on unsplash.com - Do whatever you want license - Cropped.jpg");
   --footer-border-color: #e8e8e8;
-  --main-text-color: hsl(34, 23%, 76%); /*#212529;*/
+  --main-text-color: hsl(34, 3%, 95%); /*#212529;*/
   --secondary-text-color: {{ site.color-grey }};
-  --link-color: hsl(34, 13%, 66%);
+  --link-color: hsl(34, 30%, 80%);
   --link-active-color: hsl(34, 53%, 86%);
   --top-banner-background-color: hsla(240,100%,7%,0.4);
-  --top-banner-border-color: 1pt solid  hsla(240,100%,7%,0.6);
+  --top-banner-border-color: hsla(240,100%,7%,0.3);
   --my-icon: url("/images/favicon-darkmode.png");
   --navbar-toggler-icon: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(208, 196, 180,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
   --navbar-toggler-hover-color: rgba(255, 255, 255, 0.1);
   --navbar-toggler-active-color: rgba(255, 255, 255, 0.3);
   --navbar-link-color: hsl(34, 23%, 76%); /*rgba(0.4,0.4,0.4,1);*/
   --navbar-link-hover-color: hsl(34, 53%, 86%);
-  --header-1-color: rgb(102,204,169);
+  --header-1-color: hsl(159,50%,40%); /* from rgb(102,204,169) */
   --header-2-color: rgb(255,182,143);
-  --header-3-color: hsl(219, 59%, 66%);/*rgb(100,149,237);*/
+  --header-3-color: hsl(219, 50%, 66%); /* from rgb(100,149,237) */
   --header-4-color: {{ site.color-green }};
   --header-5-color: {{ site.color-red }};
   --header-6-color: {{ site.color-grey }};
 }
+
+.light-mode-button { display: none; }
+.darkmode .light-mode-button { display: inline; }
+.darkmode .dark-mode-button { display: none; }
 
 header {
     background: var(--poster) no-repeat;
@@ -96,7 +100,7 @@ a:hover, a:active {
 	position: fixed;
 	top: 0px;
 	background-color: var(--top-banner-background-color);
-	border-bottom: 1pt solid var(--top-banner-background-color);
+	border-bottom: 1pt solid var(--top-banner-border-color);
     width: 100%;
 }
 
@@ -277,6 +281,9 @@ p { margin-bottom: 0.5rem; }
 	display: none;
   }
   .footer .col-2,.footer .col-10 { padding-left: 0; padding-right: 0; }
+  .top-banner {
+      border-bottom: 0.5pt solid var(--top-banner-border-color);
+  }
 }
 
 @media (max-width: 575px) {
@@ -286,7 +293,7 @@ p { margin-bottom: 0.5rem; }
 }
 
 @media (max-width: 399px) {
-  .xs-up {
+  #footer-envelope {
 	display: none;
   }
 }
