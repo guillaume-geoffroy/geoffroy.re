@@ -26,3 +26,4 @@ Quelques exposés
 * [Connecting degrees of parallelism and Boolean algebras through classical realizability](/docs/slides-geoffroy-chocola-09-2018.pdf), *CHoCoLa*, septembre 2018.
 * [Réalisabilité classique : nouveaux outils et applications](/docs/slides-geoffroy-thesis.pdf), *Soutenance de thèse*, mars 2019.
 * [Differential program semantics -- now with real bi-orthogonality pieces](/docs/slides-geoffroy-diapason-12-19.pdf), *Séminaire hebdomadaire DIAPASoN*, décembre 2019.
+* [Differential program semantics -- sub-modular functions and partial metrics](/docs/slides-geoffroy-pihoc-02-20.pdf), *Rencontre PIHOC-PPS-DIAPASoN*, février 2020.
