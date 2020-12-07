@@ -10,7 +10,7 @@ Ma recherche porte sur la réalisabilité classique, la sémantique dénotationn
 Mes publications
 ================
 
-* [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://hal.archives-ouvertes.fr/hal-03009790). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. Avec [Paolo Pistone](http://logica.uniroma3.it/pistone/)
+* [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://hal.archives-ouvertes.fr/hal-03009790). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. Avec [Paolo Pistone](http://logica.uniroma3.it/pistone/).
 
 * [Réalisabilité classique : nouveaux outils et applications](/docs/these.pdf). *Thèse de doctorat* (soutenue le 29 mars 2019).
 
