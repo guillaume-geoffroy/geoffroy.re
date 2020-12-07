@@ -40,6 +40,8 @@ Research
 
 ### Peer-reviewed publications
 
+01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
+
 07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
  
 ### Ph.D. thesis
@@ -52,11 +54,11 @@ Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zo
 
 ### Talks
 
+11/2020 ::  *Denotational semantics of probabilistic programs, beyond the discrete case*, ANR PPS meeting.
+
 09/2018 :: *Connecting degrees of parallelism and Boolean algebras through classical realizability*, CHoCoLa.
 
 07/2018 :: *Classical realizability as a classifier for nondeterminism*, LICS 2018.
-
-06/2018 :: *Clasical realizability and nondeterminism*, Realizability in Marseille.
 
 2016 :: Weekly workshop on classical realizability in the LDP (*Logique de la programmation*) team, I2M. Main speaker.
 

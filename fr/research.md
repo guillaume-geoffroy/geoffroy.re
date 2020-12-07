@@ -5,14 +5,17 @@ language: fr
 page: /research/
 ---
 
-Ma recherche porte sur la réalisabilité classique, la sémantique dénotationnelle des programmes et d’autres domaines à l’interface entre les mathématiques, l’informatique théorique et la logique.
+Ma recherche porte sur la réalisabilité classique, la sémantique dénotationnelle des programmes (en particulier des programmes probabilistes) et d’autres domaines à l’interface entre les mathématiques, l’informatique théorique et la logique.
 
 Mes publications
 ================
 
-* [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
+* [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://hal.archives-ouvertes.fr/hal-03009790). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. Avec [Paolo Pistone](http://logica.uniroma3.it/pistone/)
 
 * [Réalisabilité classique : nouveaux outils et applications](/docs/these.pdf). *Thèse de doctorat* (soutenue le 29 mars 2019).
+
+* [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
+
 
 En préparation
 ==============
@@ -22,8 +25,8 @@ En préparation
 Quelques exposés
 ================
 
-* [Classical realizability as a classifier for nondeterminism](/docs/slides-geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018*.
-* [Connecting degrees of parallelism and Boolean algebras through classical realizability](/docs/slides-geoffroy-chocola-09-2018.pdf), *CHoCoLa*, septembre 2018.
-* [Réalisabilité classique : nouveaux outils et applications](/docs/slides-geoffroy-thesis.pdf), *Soutenance de thèse*, mars 2019.
-* [Differential program semantics -- now with real bi-orthogonality pieces](/docs/slides-geoffroy-diapason-12-19.pdf), *Séminaire hebdomadaire DIAPASoN*, décembre 2019.
+* [Denotational semantics of probabilistic programs, beyond the discrete case](/docs/slides-geoffroy-reunion-pps-11-20.pdf) *rencontre ANR PPS*, novembre 2020.
 * [Differential program semantics -- sub-modular functions and partial metrics](/docs/slides-geoffroy-pihoc-02-20.pdf), *Rencontre PIHOC-PPS-DIAPASoN*, février 2020.
+* [Réalisabilité classique : nouveaux outils et applications](/docs/slides-geoffroy-thesis.pdf), *Soutenance de thèse*, mars 2019.
+* [Connecting degrees of parallelism and Boolean algebras through classical realizability](/docs/slides-geoffroy-chocola-09-2018.pdf), *CHoCoLa*, septembre 2018.
+* [Classical realizability as a classifier for nondeterminism](/docs/slides-geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018*.
