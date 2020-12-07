@@ -11,7 +11,7 @@ Publications
 ============
 
 * [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://hal.archives-ouvertes.fr/hal-03009790). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. With [Paolo Pistone](http://logica.uniroma3.it/pistone/).
-* [Classical realizability: new tools and applications.](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
+* [Classical realizability: new tools and applications](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
 * [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
 
 In preparation
