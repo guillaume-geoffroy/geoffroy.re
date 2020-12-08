@@ -50,7 +50,7 @@ Research
  
 ### Publications in preparation 
 
-Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*.
+Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Under review.
 
 ### Talks
 
