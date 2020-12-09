@@ -52,6 +52,8 @@ Recherche
 
 Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. En cours de relecture.
 
+Guillaume Geoffroy. *Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration*.
+
 ### Exposés
 
 11/2020 ::  *Denotational semantics of probabilistic programs, beyond the discrete case*, réunion ANR PPS.
@@ -59,8 +61,6 @@ Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zo
 09/2018 :: *Connecting degrees of parallelism and Boolean algebras through classical realizability*, CHoCoLa.
 
 07/2018 :: *Classical realizability as a classifier for nondeterminism*, LICS 2018.
-
-2016 :: Groupe de travail *réalisabilité classique* de l’équipe *Logique de la programmation*, Institut de mathématiques de Marseille, principal orateur.
 
 ### Colloques et rencontres scientifiques 
 
@@ -80,6 +80,8 @@ Membre fondateur et vice-président de l’association Pi Day ([www.piday.fr](ht
 Enseignement
 ============
 
+2020 :: Algorithmes et structures de données (40h, travaux dirigés, licence).
+
 2018 -- 2019 :: **ATER** à l’Université d’Aix-Marseille (192h par an). Algèbre linéaire ;    méthodologie ; langage mathématique (cours et travaux dirigés, L1) ; programmation C et système ; fonctionnement des ordinateurs (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
 
 2015 -- 2018 :: **Mission d’enseignement** à l’Université d’Aix-Marseille (64h par an). Introduction à l’analyse ; algèbre et géométrie (travaux dirigés, L1) ; programmation en C (travaux pratiques, L1 et L2) ; logique et calculabilité (cours magistral, M2) ; ateliers d’initiation à la recherche (lycée). 
@@ -87,6 +89,6 @@ Enseignement
 Langues
 =======
 
-Français (langue maternelle), anglais (courant), espagnol (courant), italien (courant). 
+Français (langue maternelle), anglais, italien, espagnol. 
 
 2017 -- 2018 :: Organisateur du *Café des langues de Luminy*, groupe d’échange multilingue quotidien des étudiants de Luminy.

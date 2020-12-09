@@ -22,7 +22,7 @@ En préparation
 
 * [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2019-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). Avec [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). En cours de relecture.
 
-* Linear quasi-Borel spaces: denotational model of probabilistic computation, compatible with integration.
+* Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration.
 
 Quelques exposés
 ================

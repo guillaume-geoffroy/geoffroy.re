@@ -11,7 +11,7 @@ cvify: true
 Current position
 ================
 
-Since 09/2019 :: **Post-doc** (*assegno di ricerca*) at the departement of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
+Since 09/2019 :: **Post-doc** at the departement of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
 
 Past positions
 ================
@@ -52,6 +52,8 @@ Research
 
 Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Under review.
 
+Guillaume Geoffroy. *Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration*.
+
 ### Talks
 
 11/2020 ::  *Denotational semantics of probabilistic programs, beyond the discrete case*, ANR PPS meeting.
@@ -59,8 +61,6 @@ Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zo
 09/2018 :: *Connecting degrees of parallelism and Boolean algebras through classical realizability*, CHoCoLa.
 
 07/2018 :: *Classical realizability as a classifier for nondeterminism*, LICS 2018.
-
-2016 :: Weekly workshop on classical realizability in the LDP (*Logique de la programmation*) team, I2M. Main speaker.
 
 ### Scientific meetings
 
@@ -80,6 +80,8 @@ Co-founder and vice-president of Pi Day association ([www.piday.fr](http://www.p
 Teaching 
 ========
 
+2020 :: Algorithms and data structures (40h, lab, undergrad).
+
 2018 -- 2019 :: **Visiting assistant professor (ATER)** at Aix-Marseille University (192h per year). Linear algebra; methodology; mathematical reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
 
 2015 -- 2018 :: **Teaching assistant** (chargé de mission d’enseignement) at Aix-Marseille University (64h per year). Introductory analysis; algebra and geometry (1st year university -- L1); C programming (1st and 2nd year university -- L1 & L2); logic and computability (graduate course -- M2); research initiation workshops (high school). 
@@ -87,6 +89,6 @@ Teaching
 Languages
 =========
 
-French (native), English, Spanish, Italian.
+French (native), English, Italian, Spanish.
 
 2017 -- 2018 :: Oranizer of *Café des langues de Luminy*, daily multilingual student language exchange group.
