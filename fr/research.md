@@ -20,9 +20,9 @@ Mes publications
 En préparation
 ==============
 
-* [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2019-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). Avec [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). En cours de relecture.
+* [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2020-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). Avec [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). En cours de relecture.
 
-* Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration.
+* Convex Quasi-Borel Spaces: Extensional Denotational Semantics of Higher-Order Probabilistic Programs, Beyond the Discrete Case.
 
 Quelques exposés
 ================
