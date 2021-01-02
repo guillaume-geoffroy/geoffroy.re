@@ -19,7 +19,7 @@ In preparation
 
 * [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2020-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). With [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). Under review.
 
-* LinearConvex Quasi-Borel Spaces: Extensional Denotational Semantics of Higher-Order Probabilistic Programs, Beyond the Discrete Case.
+* [Extensional Denotational Semantics of Higher-Order Probabilistic Programs, Beyond the Discrete Case](/docs/geoffroy-2021-convex-qbs.pdf). Draft.
 
 Selected talks
 ==============
