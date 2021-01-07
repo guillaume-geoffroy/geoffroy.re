@@ -25,7 +25,6 @@ Formation
 
 2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure,    Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
 
-2014 :: Stage de recherche, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory : an example with the model of threads*, sous la direction d’Alexandre Miquel. 
 
 2013 -- 2014 :: **M2 recherche Logique Mathématique et Fondements de l’Informatique**,    Université Paris Diderot, École Normale Supérieure, Paris. Parcours logique informatique. Mention très bien.
 
@@ -34,11 +33,18 @@ Formation
 2009 -- 2011 :: Classe préparatoire MPSI puis MP, Lycée Louis le Grand, Paris. Admission sur concours à l’École Normale Supérieure, groupe MPI, rang 23.
 
 2009 :: Baccalauréat général, série scientifique, Lycée Évariste de Parny, Saint Paul (974). Mention très bien, avec les félicitations du jury.
- 
+
+Stages
+======
+
+2014 :: Stage de recherche, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory : an example with the model of threads*, sous la direction d’Alexandre Miquel. 
+
 Recherche
 =========
 
 ### Publications avec comité de lecture 
+
+Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Accepté sous réserve de modifications mineures dans Mathematical Structures in Computer Science. Version révisée en cours de relecture.
 
 01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
@@ -49,8 +55,6 @@ Recherche
 03/2019 :: Guillaume Geoffroy. *Réalisabilité classique : nouveaux outils et applications*. Thèse de doctorat.
 
 ### Publications en préparation 
-
-Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. En cours de relecture.
 
 Guillaume Geoffroy. *Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration*.
 
@@ -69,7 +73,7 @@ Guillaume Geoffroy. *Linear quasi-Borel spaces: a denotational model of probabil
 Diffusion scientifique
 ======================
 
-Membre fondateur et vice-président de l’association Pi Day ([www.piday.fr](http://www.piday.fr)).
+Membre fondateur de l’association Pi Day ([www.piday.fr](http://www.piday.fr)).
 
 2015 -- 2017 :: Président de l’association Pi Day. 
 
