@@ -24,8 +24,7 @@ language: fr
     var language = getCookie("language");
     if (language == "en") { window.location.replace("/en/"); }
     else if (language == "fr") { window.location.replace("/fr/"); }
-    } else if (navigator && navigator.language
-	       && navigator.language.match(/^fr/i)) {
+    else if (navigator && navigator.language && navigator.language.match(/^fr/i)) {
 	setLanguage("fr");
     } else {
 	setLanguage("en");
