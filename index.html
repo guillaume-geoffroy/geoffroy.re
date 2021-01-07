@@ -16,30 +16,20 @@ language: fr
   <body>
 
   <script>
-	function setLanguage(l) { 
+    function setLanguage(l) { 
       setCookie("language", l, 30);
-	  window.location.replace("/"+l+"/");
-	}
+      window.location.replace("/"+l+"/");
+    }
 	
     var language = getCookie("language");
     if (language == "en") { window.location.replace("/en/"); }
     else if (language == "fr") { window.location.replace("/fr/"); }
-    else {
-	  if (self.fetch) {
-	    fetch("http://ip-api.com/json")
-		  .then(function(response) {
-			if (response.status == 200) return response.json();
-			else throw new Error("While loading http://ip-api.com/json: " + response.statusText);
-		  })
-	      .then(function(data) {
-			if (data.country == "France") setLanguage("fr");
-			else setLanguage("en");
-		  })
-	      .catch(function(error) {
-			setLanguage("en");
-	      });
-	  } else { setLanguage("en"); }
-	}
+    } else if (navigator && navigator.language
+	       && navigator.language.match(/^fr/i)) {
+	setLanguage("fr");
+    } else {
+	setLanguage("en");
+    }
   </script>
 	
   <div style="padding: 1rem;">
