@@ -25,7 +25,6 @@ Formation
 
 2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure,    Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
 
-
 2013 -- 2014 :: **M2 recherche Logique Mathématique et Fondements de l’Informatique**,    Université Paris Diderot, École Normale Supérieure, Paris. Parcours logique informatique. Mention très bien.
 
 2011 -- 2013 :: L3 et M1 Mathématiques : formation inter-universitaire en mathématiques fondamentales et appliquées, École Normale Supérieure, Paris.
@@ -44,7 +43,7 @@ Recherche
 
 ### Publications avec comité de lecture 
 
-Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Accepté sous réserve de modifications mineures dans Mathematical Structures in Computer Science. Version révisée en cours de relecture.
+2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. À paraître dans Mathematical Structures in Computer Science.
 
 01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 

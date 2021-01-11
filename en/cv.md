@@ -43,7 +43,7 @@ Research
 
 ### Peer-reviewed publications
 
-Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Accepted with minor revisions in Mathematical Structures in Computer Science. Revised version under review.
+2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. To appear in Mathematical Structures in Computer Science.
 
 01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
