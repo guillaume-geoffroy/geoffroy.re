@@ -12,11 +12,11 @@ Publications
 
 * [Preserving cardinals and weak forms of Zorn's lemma in realizability models](/docs/fontanella-geoffroy-2020-preserving-cardinals-and-weak-zorn-in-classical-realizability.pdf). With [Laura Fontanella](https://www.i2m.univ-amu.fr/perso/laura.fontanella/). To appear in *Mathematical Structures in Computer Science*.
 
-* [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://hal.archives-ouvertes.fr/hal-03009790). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. With [Paolo Pistone](http://logica.uniroma3.it/pistone/).
+* [A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations](https://doi.org/10.4230/LIPIcs.CSL.2021.23). *CSL 2021: 29th EACSL Annual Conference on Computer Science Logic*. With [Paolo Pistone](http://logica.uniroma3.it/pistone/).
 
 * [Classical realizability: new tools and applications](/docs/these.pdf). *Ph.D. thesis* (in French -- defended 29 March 2019).
 
-* [Classical realizability as a classifier for nondeterminism](/docs/geoffroy-2018-classical-realizability-classifier-for-nondeterminism.pdf), *LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
+* [Classical realizability as a classifier for nondeterminism](https://hal.archives-ouvertes.fr/hal-01802215), *LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science*.
 
 In preparation
 ==============
