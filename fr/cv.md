@@ -36,7 +36,7 @@ Formation
 Stages
 ======
 
-2014 :: Stage de recherche, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory : an example with the model of threads*, sous la direction d’Alexandre Miquel. 
+2014 :: Stage de recherche, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory: an example with the model of threads*, sous la direction d’Alexandre Miquel. 
 
 Recherche
 =========
@@ -83,11 +83,11 @@ Membre fondateur de l’association Pi Day ([www.piday.fr](http://www.piday.fr))
 Enseignement
 ============
 
-2020 :: Algorithmes et structures de données (40h, travaux dirigés, licence).
+2020 :: Algorithmes en Python (40h, travaux pratiques, licence de biologie).
 
-2018 -- 2019 :: **ATER** à l’Université d’Aix-Marseille (192h par an). Algèbre linéaire ;    méthodologie ; langage mathématique (cours et travaux dirigés, L1) ; programmation C et système ; fonctionnement des ordinateurs (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
+2018 -- 2019 :: **ATER** à l’Université d’Aix-Marseille (192h par an, 2/3 maths, 1/3 info). Algèbre linéaire ; méthodologie ; langage et raisonnement mathématiques (cours et travaux dirigés, L1) ; programmation C et système (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
 
-2015 -- 2018 :: **Mission d’enseignement** à l’Université d’Aix-Marseille (64h par an). Introduction à l’analyse ; algèbre et géométrie (travaux dirigés, L1) ; programmation en C (travaux pratiques, L1 et L2) ; logique et calculabilité (cours magistral, M2) ; ateliers d’initiation à la recherche (lycée). 
+2015 -- 2018 :: **Mission d’enseignement** à l’Université d’Aix-Marseille (64h par an, 2/3 maths, 1/3 info). Introduction à l’analyse ; algèbre et géométrie (travaux dirigés, L1) ; programmation en C (travaux pratiques, L1 et L2) ; logique et calculabilité (cours magistral, M2) ; ateliers d’initiation à la recherche (lycée).
 
 Langues
 =======
