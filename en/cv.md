@@ -72,11 +72,11 @@ Guillaume Geoffroy. *Extensional denotational semantics of Higher-order probabil
 Science popularisation
 ======================
 
-:: Co-founder of Pi Day association ([www.piday.fr](http://www.piday.fr)).
+:: Co-founder of Pi Day association ([www.piday.fr](https://www.piday.fr)).
     
 2015 -- 2017 :: President of Pi Day association.
  
-14 March 2017 :: Co-author (with Joël Cohen) of the mathematical musical *From Marseille to Vegas* and co-organiser of the Pi Tour: three performances of the musical in Paris (théâtre des Variétés), Lyon (le Transbordeur) and Marseille (le Silo), accompanied by short scientific talks (attendance: 2000).<BR> Videos: <http://www.piday.fr/extraits-video-2017/>.
+14 March 2017 :: Co-author (with Joël Cohen) of the mathematical musical *From Marseille to Vegas* and co-organiser of the Pi Tour: three performances of the musical in Paris (théâtre des Variétés), Lyon (le Transbordeur) and Marseille (le Silo), accompanied by short scientific talks (attendance: 2000).<BR> Videos: <https://www.piday.fr/extraits-video-2017/>.
 
 14 March 2016 :: Co-author of the mathematical musical *Les π travaux d’Archimède* and co-organiser of Pi Day in Marseille: one performance of the musical, accompanied by short scientific talks (attendance: 700). The association received the 2016 d’Alembert Award of the French Mathematical Society for this action.
 
