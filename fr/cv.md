@@ -23,7 +23,7 @@ Formation
 
 2015 -- 2019 :: **Doctorat en mathématiques**, Université d’Aix-Marseille. *Réalisabilité classique : nouveaux outils et applications*, sous la direction de Laurent Regnier. Soutenue le 29 mars 2019.
 
-2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure,    Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
+2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure, Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
 
 2013 -- 2014 :: **M2 recherche Logique Mathématique et Fondements de l’Informatique**,    Université Paris Diderot, École Normale Supérieure, Paris. Parcours logique informatique. Mention très bien.
 
@@ -45,9 +45,9 @@ Recherche
 
 2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. À paraître dans Mathematical Structures in Computer Science.
 
-01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
+01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A partial metric semantics of higher-order types and approximate program transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
-07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
+07/2018 :: Guillaume Geoffroy. *Classical Realizability as a Classifier for Nondeterminism*. LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
 
 ### Thèse de doctorat
 
@@ -55,7 +55,7 @@ Recherche
 
 ### Publications en préparation 
 
-Guillaume Geoffroy. *Linear quasi-Borel spaces: a denotational model of probabilistic computation, compatible with integration*.
+Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*.
 
 ### Exposés
 

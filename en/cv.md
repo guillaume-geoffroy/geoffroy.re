@@ -45,7 +45,7 @@ Research
 
 2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. To appear in Mathematical Structures in Computer Science.
 
-01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A Partial Metric Semantics of Higher-Order Types and Approximate Program Transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
+01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A partial metric semantics of higher-order types and approximate program transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
 07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
  
@@ -55,7 +55,7 @@ Research
  
 ### Publications in preparation
 
-Guillaume Geoffroy. *Extensional denotational semantics of Higher-order probabilistic programs, beyond the discrete case*.
+Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*.
 
 ### Selected Talks
 
