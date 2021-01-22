@@ -55,7 +55,7 @@ Research
  
 ### Publications in preparation
 
-Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*.
+Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*. Under review.
 
 ### Selected Talks
 
