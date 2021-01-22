@@ -83,7 +83,7 @@ Science popularisation
 Teaching 
 ========
 
-2020 :: Algorithms in Python (40h, lab and TA, bachelor of biology).
+2020 :: Algorithms in Python (30h, lab and TA, bachelor of biology).
 
 2018 -- 2019 :: **Temporary lecturer and research assistant (ATER)** at Aix-Marseille University (192h per year, 2/3 math, 1/3 computer science). Linear algebra; methodology; mathematical language and reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
 

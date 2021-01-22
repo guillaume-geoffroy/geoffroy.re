@@ -83,7 +83,7 @@ Membre fondateur de l’association Pi Day ([www.piday.fr](https://www.piday.fr)
 Enseignement
 ============
 
-2020 :: Algorithmes en Python (40h, travaux pratiques, licence de biologie).
+2020 :: Algorithmes en Python (30h, travaux pratiques, licence de biologie).
 
 2018 -- 2019 :: **ATER** à l’Université d’Aix-Marseille (192h par an, 2/3 maths, 1/3 info). Algèbre linéaire ; méthodologie ; langage et raisonnement mathématiques (cours et travaux dirigés, L1) ; programmation C et système (travaux pratiques, L1) ; ateliers d’initiation à la recherche (lycée).
 
