@@ -85,7 +85,7 @@ Teaching
 
 2020 :: Algorithms in Python (30h, lab and TA, bachelor of biology).
 
-2018 -- 2019 :: **Temporary lecturer and research assistant (ATER)** at Aix-Marseille University (192h per year, 2/3 math, 1/3 computer science). Linear algebra; methodology; mathematical language and reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
+2018 -- 2019 :: **Temporary lecturer and research assistant (ATER)** at Aix-Marseille University (192h per year). Linear algebra; methodology; mathematical language and reasoning (1st year university -- L1); C and systems programming (1st year university -- L1); research initiation workshops (high school).
 
 2015 -- 2018 :: **Teaching assistant** (chargé de mission d’enseignement) at Aix-Marseille University (64h per year, 2/3 math, 1/3 computer science). Introductory analysis; algebra and geometry (1st year university -- L1); C programming (1st and 2nd year university -- L1 & L2); logic and computability (graduate course -- M2); research initiation workshops (high school). 
 
