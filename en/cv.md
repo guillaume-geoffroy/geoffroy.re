@@ -11,10 +11,12 @@ cvify: true
 Current position
 ================
 
-Since 09/2019 :: **Post-doc** at the department of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
+Since 09/2021 :: **Associate professor** (maître de conférences) at IRIF, Université de Paris, department of computer science.
 
 Past positions
 ==============
+
+2019 -- 2021 :: **Post-doc** at the department of computer science and engineering of the university of Bologna (research project DIAPASoN -- Differential Program Semantics).
 
 2018 -- 2019 :: **Temporary lecturer and research assistant (ATER)** at I2M (Institut de Mathématiques de Marseille).
 

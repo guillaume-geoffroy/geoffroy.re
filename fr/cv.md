@@ -11,10 +11,12 @@ cvify: true
 Poste actuel
 ============
 
-Depuis 09/2019 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
+Depuis 09/2021 :: **Maître de conférences** à l'Institut de Recherche en Informatique Fondamentale, Université de Paris, département d'informatique.
 
 Postes passés
 =============
+
+2019 -- 2021 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
 
 2018 -- 2019 :: **Attaché temporaire d’enseignement et de recherche** à l’Institut de Mathématiques de Marseille.
 
