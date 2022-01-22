@@ -24,6 +24,8 @@ En préparation
 
 * [Extensional Denotational Semantics of Higher-Order Probabilistic Programs, Beyond the Discrete Case](/docs/geoffroy-2021-convex-qbs.pdf). Brouillon.
 
+* [A first-order completeness result about characteristic Boolean algebras in classical realizability](/docs/geoffroy-2022-realizability-characteristic-boolean-algebra-first-order.pdf). Brouillon.
+
 Quelques exposés
 ================
 
