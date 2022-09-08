@@ -11,7 +11,7 @@ cvify: true
 Current position
 ================
 
-Since 09/2021 :: **Associate professor** (maître de conférences) at IRIF, Université de Paris, department of computer science.
+Since 09/2021 :: **Associate professor** (maître de conférences) at IRIF, Université Paris Cité, department of computer science.
 
 Past positions
 ==============
@@ -35,21 +35,19 @@ Education
 
 2009 :: High-school diploma (baccalauréat général), scientific option, Lycée Évariste de Parny, Saint Paul (La Réunion, France). With honours (mention très bien, avec les félicitations du jury). 
 
-Internships
-===========
-
-2014 :: Research internship, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory: an example with the model of threads*. Advisor: Alexandre Miquel. 
 
 Research
 ========
 
 ### Peer-reviewed publications
 
-2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. To appear in Mathematical Structures in Computer Science.
+08/2022 :: Guillaume Geoffroy. *A first-order completeness result about characteristic Boolean algebras in classical realizability*. LICS 2022: Thirty-Seventh Annual ACM / IEEE Symposium on Logic in Computer Science.
+
+02/2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*.Mathematical Structures in Computer Science.
 
 01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A partial metric semantics of higher-order types and approximate program transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
-07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018: Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
+07/2018 :: Guillaume Geoffroy. *Classical realizability as a classifier for nondeterminism*. LICS 2018: Thirty-Third Annual ACM / IEEE Symposium on Logic in Computer Science.
  
 ### Ph.D. thesis
 
@@ -58,14 +56,6 @@ Research
 ### Publications in preparation
 
 Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*. Under review.
-
-### Selected Talks
-
-11/2020 :: *Denotational semantics of probabilistic programs, beyond the discrete case*, ANR PPS meeting.
-
-09/2018 :: *Connecting degrees of parallelism and Boolean algebras through classical realizability*, CHoCoLa.
-
-07/2018 :: *Classical realizability as a classifier for nondeterminism*, LICS 2018.
 
 ### Scientific meetings
 
@@ -84,6 +74,8 @@ Science popularisation
 
 Teaching 
 ========
+
+Since 2019 :: **Associate professor** of computer science, (maître de conférences), Université Paris Cité.
 
 2020 :: Algorithms in Python (30h, lab and TA, bachelor of biology).
 

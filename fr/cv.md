@@ -11,45 +11,47 @@ cvify: true
 Poste actuel
 ============
 
-Depuis 09/2021 :: **Maître de conférences** à l'Institut de Recherche en Informatique Fondamentale, Université de Paris, département d'informatique.
+Depuis 09/2021 :: **Maître de conférences** à l'Institut de Recherche en Informatique Fondamentale, Université Paris, département d'informatique.
 
 Postes passés
 =============
 
-2019 -- 2021 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
+09/19 -- 08/21 :: **Post-doctorant** au département d'informatique et sciences de l'ingénieur de l'université de Bologne (projet de recherche DIAPASoN -- Differential Program Semantics).
 
-2018 -- 2019 :: **Attaché temporaire d’enseignement et de recherche** à l’Institut de Mathématiques de Marseille.
+09/18 -- 08/19 :: **Attaché temporaire d’enseignement et de recherche** à Aix-Marseille Université (Institut de Mathématiques de Marseille).
+
+09/15 -- 08/18 :: **Doctorant contractuel** à Aix-Marseille Université (Institut de Mathématiques de Marseille).
 
 Formation
 =========
 
-2015 -- 2019 :: **Doctorat en mathématiques**, Université d’Aix-Marseille. *Réalisabilité classique : nouveaux outils et applications*, sous la direction de Laurent Regnier. Soutenue le 29 mars 2019.
+2015 -- 2019 :: **Doctorat en mathématiques**, Université d’Aix-Marseille. *Réalisabilité classique : nouveaux outils et applications*, sous la direction de Laurent Regnier. Débuté le 1er septembre 2015, soutenu le 29 mars 2019.
 
-2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure, Paris. Spécialité principale mathématiques, spécialité secondaire informatique.
+2011 -- 2015 :: **Diplôme de l’École Normale Supérieure**, École Normale Supérieure, Paris. Spécialité principale mathématiques, spécialité secondaire informatique. Débuté en septembre 2011, obtenu le 22 janvier 2016.
 
-2013 -- 2014 :: **M2 recherche Logique Mathématique et Fondements de l’Informatique**,    Université Paris Diderot, École Normale Supérieure, Paris. Parcours logique informatique. Mention très bien.
+2013 -- 2014 :: **M2 recherche Logique Mathématique et Fondements de l’Informatique**, Université Paris Diderot, École Normale Supérieure, Paris. Parcours logique informatique. Mention très bien. Débuté en septembre 2013, obtenu le 7 octobre 2014.
 
-2011 -- 2013 :: L3 et M1 Mathématiques : formation inter-universitaire en mathématiques fondamentales et appliquées, École Normale Supérieure, Paris.
+2012 -- 2013 :: M1 Mathématiques : formation inter-universitaire en mathématiques fondamentales et appliquées, École Normale Supérieure, Paris.
+
+2011 -- 2012 :: L3 Mathématiques : formation inter-universitaire en mathématiques fondamentales et appliquées, École Normale Supérieure, Paris. Débutée en septembre 2011, obtenue le 27 juin 2012.
 
 2009 -- 2011 :: Classe préparatoire MPSI puis MP, Lycée Louis le Grand, Paris. Admission sur concours à l’École Normale Supérieure, groupe MPI, rang 23.
 
 2009 :: Baccalauréat général, série scientifique, Lycée Évariste de Parny, Saint Paul (974). Mention très bien, avec les félicitations du jury.
-
-Stages
-======
-
-2014 :: Stage de recherche, Universidad de la República, Montevideo (Uruguay). *Classical realizability in set theory: an example with the model of threads*, sous la direction d’Alexandre Miquel. 
 
 Recherche
 =========
 
 ### Publications avec comité de lecture 
 
-2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. À paraître dans Mathematical Structures in Computer Science.
+
+08/2022 :: Guillaume Geoffroy. *A first-order completeness result about characteristic Boolean algebras in classical realizability*. LICS 2022 : Thirty-Seventh Annual ACM / IEEE Symposium on Logic in Computer Science.
+
+02/2021 :: Laura Fontanella, Guillaume Geoffroy. *Preserving cardinals and weak forms of Zorn's lemma in realizability models*. Mathematical Structures in Computer Science.
 
 01/2021 :: Guillaume Geoffroy, Paolo Pistone. *A partial metric semantics of higher-order types and approximate program transformations*. CSL 2021: 29th EACSL Annual Conference on Computer Science Logic.
 
-07/2018 :: Guillaume Geoffroy. *Classical Realizability as a Classifier for Nondeterminism*. LICS 2018 : Thirty-First Annual ACM / IEEE Symposium on Logic in Computer Science.
+07/2018 :: Guillaume Geoffroy. *Classical Realizability as a Classifier for Nondeterminism*. LICS 2018 : Thirty-Third Annual ACM / IEEE Symposium on Logic in Computer Science.
 
 ### Thèse de doctorat
 
@@ -57,15 +59,7 @@ Recherche
 
 ### Publications en préparation 
 
-Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*. En cours de relecture.
-
-### Exposés
-
-11/2020 ::  *Denotational semantics of probabilistic programs, beyond the discrete case*, réunion ANR PPS.
-
-09/2018 :: *Connecting degrees of parallelism and Boolean algebras through classical realizability*, CHoCoLa.
-
-07/2018 :: *Classical realizability as a classifier for nondeterminism*, LICS 2018.
+Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*.
 
 ### Colloques et rencontres scientifiques 
 
@@ -84,6 +78,8 @@ Membre fondateur de l’association Pi Day ([www.piday.fr](https://www.piday.fr)
 
 Enseignement
 ============
+
+Depuis 2021 :: **Maître de conférences** en informatique à l'Université Paris Cité (192h par an).
 
 2020 :: Algorithmes en Python (30h, travaux pratiques, licence de biologie).
 
