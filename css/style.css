@@ -168,6 +168,15 @@ a:hover, a:active {
   border-top:1px solid var(--footer-border-color)
   background-color: var(--main-background-color);
   padding: 1em 2em;
+
+  /* Block selection */
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                        supported by Chrome, Edge, Opera and Firefox */
 }
 
 .content {
