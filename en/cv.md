@@ -55,7 +55,7 @@ Research
  
 ### Publications in preparation
 
-Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*. Under review.
+Thomas Ehrhard, Guillaume Geoffroy. *Integration in cones*. Under review (journal).
 
 ### Scientific meetings
 
@@ -68,14 +68,14 @@ Science popularisation
     
 2015 -- 2017 :: President of Pi Day association.
  
-14 March 2017 :: Co-author (with Joël Cohen) of the mathematical musical *From Marseille to Vegas* and co-organiser of the Pi Tour: three performances of the musical in Paris (théâtre des Variétés), Lyon (le Transbordeur) and Marseille (le Silo), accompanied by short scientific talks (attendance: 2000).<BR> Videos: <https://www.piday.fr/extraits-video-2017/>.
+14 March 2017 :: Co-author (with Joël Cohen) of the mathematical musical *From Marseille to Vegas* and co-organiser of the Pi Tour: three performances of the musical in Paris (théâtre des Variétés), Lyon (le Transbordeur) and Marseille (le Silo), accompanied by short scientific talks (total attendance: 2000).<BR> Videos: <https://www.piday.fr/extraits-video-2017/>.
 
 14 March 2016 :: Co-author of the mathematical musical *Les π travaux d’Archimède* and co-organiser of Pi Day in Marseille: one performance of the musical, accompanied by short scientific talks (attendance: 700). The association received the 2016 d’Alembert Award of the French Mathematical Society for this action.
 
 Teaching 
 ========
 
-Since 2019 :: **Associate professor** of computer science, (maître de conférences), Université Paris Cité.
+Since 2021 :: **Associate professor** of computer science, (maître de conférences), Université Paris Cité. Programming with system calls (Unix, C, 3rd year university -- L3); functional programming (OCaml, 1st year university -- L1); compilation (4th year university -- M1).
 
 2020 :: Algorithms in Python (30h, lab and TA, bachelor of biology).
 

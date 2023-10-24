@@ -59,7 +59,7 @@ Recherche
 
 ### Publications en préparation 
 
-Guillaume Geoffroy. *Extensional denotational semantics of higher-order probabilistic programs, beyond the discrete case*.
+Thomas Ehrhard, Guillaume Geoffroy. *Integration in cones*. En cours de relecture (journal).
 
 ### Colloques et rencontres scientifiques 
 
@@ -72,14 +72,14 @@ Membre fondateur de l’association Pi Day ([www.piday.fr](https://www.piday.fr)
 
 2015 -- 2017 :: Président de l’association Pi Day. 
 
-14/03/2017 :: Co-écriture (avec Joël Cohen) de la comédie musicale mathématique *From Marseille to Vegas* et co-organistion de la *tournée de Pi* : trois représentations de la comédie musicale, à Paris (théâtre des Variétés), Lyon (le Transbordeur) et Marseille (le Silo), accompagnées d’exposés scientifiques tout public (2000 spectateurs).<BR> Vidéos : <https://www.piday.fr/extraits-video-2017/>.
+14/03/2017 :: Co-écriture (avec Joël Cohen) de la comédie musicale mathématique *From Marseille to Vegas* et co-organistion de la *tournée de Pi* : trois représentations de la comédie musicale, à Paris (théâtre des Variétés), Lyon (le Transbordeur) et Marseille (le Silo), accompagnées d’exposés scientifiques tout public (2000 spectateurs au total).<BR> Vidéos : <https://www.piday.fr/extraits-video-2017/>.
 
 14/03/2016 :: Co-écriture de la comédie musicale mathématique *Les π travaux d’Archimède* et co-organisation de la *journée de Pi* : une représentation de la comédie musicale au théâtre national de la Criée à Marseille, accompagnée d’exposés scientifiques tout public (700 spectateurs). Action récompensée par le prix d’Alembert de la Société Mathématique de France en 2016. 
 
 Enseignement
 ============
 
-Depuis 2021 :: **Maître de conférences** en informatique à l'Université Paris Cité (192h par an).
+Depuis 2021 :: **Maître de conférences** en informatique à l'Université Paris Cité (192h par an). Programmation par appels système (Unix, C, L3) ; Programmation fonctionnelle (OCaml, L1) ; compilation (M1).
 
 2020 :: Algorithmes en Python (30h, travaux pratiques, licence de biologie).
 
